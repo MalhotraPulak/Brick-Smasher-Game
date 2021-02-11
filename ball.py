@@ -1,0 +1,59 @@
+from game_object import GameObject
+from colorama import Back
+
+
+def log(s):
+    return
+    with open("a.txt", "a") as f:
+        f.write(s)
+
+
+class Ball(GameObject):
+    def __init__(self, max_width: int, max_height: int, x: int, y: int):
+        super().__init__(max_width, max_height, x, y)
+        self.speed_multiplier = 0.5
+        self.speed_x = 0.707106781
+        self.speed_y = -0.707106781
+        self.actual_x = x
+        self.actual_y = y
+        self.color = Back.YELLOW
+        self.set_show("*")
+
+    def move(self):
+        self.actual_x += self.speed_x * self.speed_multiplier
+        self.actual_y += self.speed_y * self.speed_multiplier
+        if self.actual_x >= self.max_width - self.length:
+            self.actual_x = self.max_width - self.length - 1
+            self.reverse_x_speed()
+        if self.actual_x < 0:
+            self.actual_x = 0
+            self.reverse_x_speed()
+        if self.actual_y >= self.max_height:
+            self.actual_y = self.max_height - 1
+            self.speed_x = 0
+            self.speed_y = 0
+        if self.actual_y < 0:
+            self.actual_y = 0
+            self.reverse_y_speed()
+        log(str(self.actual_y) + " " + str(self.y) + "\n")
+        if abs(self.actual_x - self.x) >= 1:
+            self.x = round(self.actual_x)
+            log(str(self.x) + " " + str(self.y) + "\n")
+        if abs(self.actual_y - self.y) >= 1:
+            self.y = round(self.actual_y)
+            log(str(self.x) + " " + str(self.y) + "\n")
+
+    def reverse_x_speed(self):
+        self.speed_x = -self.speed_x
+
+    def reverse_y_speed(self):
+        self.speed_y = -self.speed_y
+
+    def get_speed(self):
+        return self.speed_x, self.speed_y
+
+    def set_speed_x(self, inp):
+        self.speed_x = inp
+
+    def set_speed_y(self, inp):
+        self.speed_y = inp

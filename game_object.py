@@ -3,9 +3,9 @@ from colorama import Back
 
 class GameObject:
 
-    def __init__(self, max_width: int, max_height: int):
-        self.x = 0
-        self.y = 0
+    def __init__(self, max_width: int, max_height: int, x: int, y: int):
+        self.x = x
+        self.y = y
         self.max_height = max_height
         self.max_width = max_width
         self.show = ""
