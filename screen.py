@@ -6,6 +6,7 @@ from ball import Ball
 import time
 from powerup import PowerUp
 
+
 class Screen:
     def set_empty_screen(self):
         mat = []

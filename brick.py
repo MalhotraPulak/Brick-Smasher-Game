@@ -26,6 +26,5 @@ class Brick(GameObject):
         if self.strength == 4:
             return self.strength
         new_strength = self.strength - 1
-        if new_strength > 0:
-            self.set_strength(new_strength)
+        self.set_strength(new_strength)
         return new_strength

@@ -9,7 +9,7 @@ import time
 from powerup import PowerUpType, createPowerUp
 from enum import Enum
 import numpy as np
-import random
+from powerup import PowerUp
 
 
 class Collision(Enum):
@@ -55,7 +55,7 @@ class Game:
         self.score = 0
         self.lives = 3
         self.time = time.time()
-        self.active_powerups = []
+        self.active_powerups: [PowerUp] = []
         self.thru_ball = False
         os.system('clear')
 
@@ -67,31 +67,6 @@ class Game:
     def spawn_powerup(self, x, y):
         self.powerups.append(createPowerUp(self.width, self.height, x, y))
 
-    # def check_one_brick(self, brick: Brick):
-    #     ball_x, ball_y, _, _ = self.ball.get_dim()
-    #     brick_x, brick_y, _, _ = brick.get_dim()
-    #     for i in range(BRICK_SIZE):
-    #         brick_part_x = brick_x + i
-    #         dist_x = ball_x - brick_part_x
-    #         dist_y = ball_y - brick_y
-    #         if (dist_x == 0 and dist_y == 1 and self.ball.get_speed()[1] < 0) or (
-    #                 dist_x == 0 and dist_y == -1 and self.ball.get_speed()[1] > 0):
-    #             self.ball.reverse_y_speed()
-    #             if brick.got_hit() <= 0:
-    #                 self.score += 1
-    #                 self.spawn_powerup(brick_part_x, brick_y)
-    #                 return None
-    #             else:
-    #                 return brick
-    #         if (dist_y == 0 and dist_x == 1 and self.ball.get_speed()[0] < 0) or (
-    #                 dist_y == 0 and dist_x == -1 and self.ball.get_speed()[0] > 0):
-    #             self.ball.reverse_x_speed()
-    #             if brick.got_hit() <= 0:
-    #                 self.score += 1
-    #                 return None
-    #             else:
-    #                 return brick
-    #     return brick
 
     def check_paddle_collision(self, obj: GameObject):
         ball_x, ball_y, _, _, _ = obj.get_dim()
@@ -102,7 +77,6 @@ class Game:
             dist_x = ball_x - paddle_part_x
             dist_y = ball_y - paddle_y
             if dist_x == 0 and dist_y == -1:
-                log("something collided with paddle \n")
                 if isinstance(obj, Ball):
                     if obj.get_speed()[1] < 0:
                         continue
@@ -133,42 +107,20 @@ class Game:
                 return Collision.HORIZONTAL
         return Collision.NOPE
 
-    # def power_up_shrink(self):
-    #     self.active_powerups.append((time.time(), PowerUpType.SHRINK))
-    #     self.paddle.change_paddle_size(5)
-    #
-    # def power_up_expand(self):
-    #     self.active_powerups.append((time.time(), PowerUpType.EXP))
-    #     self.paddle.change_paddle_size(10)
-    #
-    # def power_up_fast(self):
-    #     self.active_powerups.append((time.time(), PowerUpType.FAST))
-    #     [ball.set_speed(1) for ball in self.balls]
-    #
-    # def power_up_thru(self):
-    #     self.active_powerups.append((time.time(), PowerUpType.FAST))
-    #     self.thru_ball = True
-
     def brick_ball_collision(self):
-        new_bricks = []
-        for brick in self.bricks:
+        for idx2 in range(len(self.bricks)):
             for idx, ball in enumerate(self.balls):
-                collision = self.objects_collision(ball, brick)
+                collision = self.objects_collision(ball, self.bricks[idx2])
                 if collision != Collision.NOPE:
-                    new_strength = brick.got_hit()
-                    self.score += 1
-                    if new_strength > 0:
-                        new_bricks.append(brick)
-                    else:
-                        self.spawn_powerup(brick.get_dim()[0], brick.get_dim()[1])
+                    new_strength = self.bricks[idx2].got_hit()
+                    if new_strength <= 0:
+                        self.score += 1
+                        self.spawn_powerup(self.bricks[idx2].get_dim()[0], self.bricks[idx2].get_dim()[1])
                     if collision == Collision.VERTICAL:
                         self.balls[idx].reverse_y_speed()
                     if collision == Collision.HORIZONTAL:
                         self.balls[idx].reverse_x_speed()
-                else:
-                    new_bricks.append(brick)
-        log(str(len(new_bricks)))
-        self.bricks = new_bricks
+        self.bricks = [brick for brick in self.bricks if brick.strength > 0]
 
     def check_collision(self):
         # check if ball collided with bricks
@@ -176,37 +128,44 @@ class Game:
         # check if ball collided with paddle
         [self.check_paddle_collision(ball) for ball in self.balls]
         # check if a powerup collided with paddle
+        new_powerups = []
         for powerup in self.powerups:
-            self.active_powerups = [pw for pw in self.active_powerups if pw[1] != powerup.get_type()]
             if self.check_paddle_collision(powerup) == -1:
-                powerup.power_up_activate()
-
-
-
-
+                self.active_powerups = [pw for pw in self.active_powerups if powerup.get_type() != pw.get_type()]
+                powerup.set_time(time.time())
+                self.active_powerups.append(powerup)
+                powerup.power_up_activate(self)
+                log("activated powerup " + powerup.type.name)
+                log(str(len(self.balls)))
+            else:
+                new_powerups.append(powerup)
+        self.powerups = new_powerups
 
     def play(self):
+        # active powerups
         new_active = []
         for pw in self.active_powerups:
-            log(str(pw[0] - time.time()) + "\n")
-            if time.time() - pw[0] > 5:
-                if pw[1] == PowerUpType.SHRINK or pw[1] == PowerUpType.EXP:
-                    self.paddle.change_paddle_size(10)
-                if pw[1] == PowerUpType.FAST:
-                    [ball.set_speed(0.5) for ball in self.balls]
+            if time.time() - pw.time > 5:
+                pw.power_up_deactivate(self)
             else:
                 new_active.append(pw)
-
         self.active_powerups = new_active
-        # move balls
-        for ball in self.balls:
-            if ball.move() == -1:
-                self.lives -= 1
-                self.ball_on_paddle = True
-                if self.lives == 0:
-                    self.__init__(self.width, self.height)
 
-        self.check_collision()
+        # move balls
+        alive_ball = False
+        for ball in self.balls:
+            if ball.move() != -1:
+                alive_ball = True
+            else:
+                ball.dead = True
+        self.balls = [ball for ball in self.balls if not ball.dead]
+        if not alive_ball:
+            self.lives -= 1
+            self.balls.append(Ball(self.width, self.height, 0, 0))
+            self.ball_on_paddle = True
+            if self.lives == 0:
+                self.__init__(self.width, self.height)
+
         # move powerups
         new_powerups = []
         for powerup in self.powerups:
@@ -214,10 +173,13 @@ class Game:
                 new_powerups.append(powerup)
         self.powerups = new_powerups
 
+        # check for collisions
+        self.check_collision()
         paddle_x, paddle_y, paddle_show, _, _ = self.paddle.get_dim()
         paddle_center = paddle_x + len(paddle_show) / 2
         if self.ball_on_paddle:
             [ball.set_x_y(int(paddle_center), paddle_y - 1) for ball in self.balls]
+        # set all the sprites and render
         self.screen.set_sprites(paddle=self.paddle, bricks=self.bricks, balls=self.balls, powerups=self.powerups)
         cursor_to_top()
         self.screen.render(self.time, self.score, self.lives)

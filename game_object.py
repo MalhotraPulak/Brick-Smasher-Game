@@ -12,6 +12,7 @@ class GameObject:
         self.length = 0
         self.speed_x = 0
         self.speed_y = 0
+        self.dead = False
         self.color = Back.GREEN
         self.set_show("*")
 
