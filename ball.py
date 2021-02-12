@@ -12,12 +12,12 @@ class Ball(GameObject):
     def __init__(self, max_width: int, max_height: int, x: int, y: int):
         super().__init__(max_width, max_height, x, y)
         self.speed_multiplier = 0.5
-        self.speed_x = 0.707106781
-        self.speed_y = -0.707106781
+        self.speed_x = 0.5
+        self.speed_y = -0.5
         self.actual_x = x
         self.actual_y = y
         self.color = Back.YELLOW
-        self.set_show("*")
+        self.set_show(" ")
 
     def move(self):
         self.actual_x += self.speed_x * self.speed_multiplier
@@ -30,8 +30,7 @@ class Ball(GameObject):
             self.reverse_x_speed()
         if self.actual_y >= self.max_height:
             self.actual_y = self.max_height - 1
-            self.speed_x = 0
-            self.speed_y = 0
+            return -1
         if self.actual_y < 0:
             self.actual_y = 0
             self.reverse_y_speed()
@@ -42,6 +41,7 @@ class Ball(GameObject):
         if abs(self.actual_y - self.y) >= 1:
             self.y = round(self.actual_y)
             log(str(self.x) + " " + str(self.y) + "\n")
+        return 0
 
     def reverse_x_speed(self):
         self.speed_x = -self.speed_x
@@ -57,3 +57,12 @@ class Ball(GameObject):
 
     def set_speed_y(self, inp):
         self.speed_y = inp
+
+    def set_x_y(self, x, y):
+        self.x = x
+        self.actual_x = x
+        self.y = y
+        self.actual_y = y
+
+    def set_speed(self, s):
+        self.speed_multiplier = s
