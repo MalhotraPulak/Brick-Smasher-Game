@@ -3,11 +3,8 @@ from game_object import GameObject
 from enum import Enum
 from random import randint
 from colorama import Back
-from copy import deepcopy
+from util import log
 
-def log(s):
-    with open("a.txt", "a") as f:
-        f.write(s)
 
 class PowerUpType(Enum):
     SHRINK, EXP, MULT, FAST, THRU, GRAB = range(6)

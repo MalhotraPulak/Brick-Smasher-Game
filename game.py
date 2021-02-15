@@ -138,7 +138,7 @@ class Game:
                 powerup.power_up_deactivate(self)
             self.active_powerups = []
             if self.lives == 0:
-                self.__init__(self.width, self.height)
+                return -1, self.score, int(time.time() - self.time)
 
         # move powerups
         new_powerups = []
@@ -158,3 +158,4 @@ class Game:
         self.screen.set_sprites(paddle=self.paddle, bricks=self.bricks, balls=self.balls, powerups=self.powerups)
         cursor_to_top()
         self.screen.render(self.time, self.score, self.lives)
+        return 0, 0, 0
