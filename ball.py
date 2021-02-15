@@ -1,17 +1,14 @@
 from game_object import GameObject
 from colorama import Back
+from util import log
 
 
-def log(s):
-    return
-    with open("a.txt", "a") as f:
-        f.write(s)
 
 
 class Ball(GameObject):
     def __init__(self, max_width: int, max_height: int, x: int, y: int):
         super().__init__(max_width, max_height, x, y)
-        self.speed_multiplier = 0.5
+        self.speed_multiplier = 0.75
         self.speed_x = 0.5
         self.speed_y = -0.5
         self.actual_x = x
@@ -34,13 +31,10 @@ class Ball(GameObject):
         if self.actual_y < 0:
             self.actual_y = 0
             self.reverse_y_speed()
-        log(str(self.actual_y) + " " + str(self.y) + "\n")
         if abs(self.actual_x - self.x) >= 1:
             self.x = round(self.actual_x)
-            log(str(self.x) + " " + str(self.y) + "\n")
         if abs(self.actual_y - self.y) >= 1:
             self.y = round(self.actual_y)
-            log(str(self.x) + " " + str(self.y) + "\n")
         return 0
 
     def reverse_x_speed(self):

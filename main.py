@@ -39,6 +39,7 @@ while True:
         game.input(ch)
         ret = game.play()
         if ret[0] == -1:
+            os.system("clear")
             state = State.MESSAGE
             score = ret[1]
             tim = ret[2]

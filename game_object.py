@@ -1,5 +1,6 @@
-from colorama import Back
 from enum import Enum
+
+from colorama import Back
 
 
 class Collision(Enum):
@@ -45,4 +46,10 @@ def objects_collision(small: GameObject, big: GameObject):
         if (dist_y == 0 and dist_x == 1 and small.get_speed()[0] < 0) or (
                 dist_y == 0 and dist_x == -1 and small.get_speed()[0] > 0):
             return Collision.HORIZONTAL
+        if (i == 0 or i == big_len - 1) and (abs(dist_x) == 1 and abs(dist_y) == 1):
+            x_speed, y_speed = small.get_speed()
+            dist_x_new = small_x + x_speed - big_part_x
+            dist_y_new = small_y + y_speed - big_y
+            if abs(dist_x_new) < abs(dist_x) and abs(dist_y_new) < abs(dist_y):
+                return Collision.DIAGONAL
     return Collision.NOPE

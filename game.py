@@ -64,7 +64,7 @@ class Game:
                     obj.reverse_y_speed()
                     if self.grab_ball:
                         self.ball_on_paddle = True
-                    log(str(new_x_speed))
+                    # log(str(new_x_speed))
                     return
                 if isinstance(obj, PowerUp):
                     return -1
@@ -83,6 +83,10 @@ class Game:
                             self.balls[idx].reverse_y_speed()
                         if collision == Collision.HORIZONTAL:
                             self.balls[idx].reverse_x_speed()
+                        if collision == Collision.DIAGONAL:
+                            self.balls[idx].reverse_x_speed()
+                            self.balls[idx].reverse_y_speed()
+                        log("collision no " + collision.name + "\n")
                     else:
                         self.bricks[idx2].strength = 0
                         self.score += 1
@@ -107,7 +111,7 @@ class Game:
                 self.active_powerups.append(powerup)
                 powerup.power_up_activate(self)
                 log("activated powerup " + powerup.type.name)
-                log(str(len(self.balls)))
+                # log(str(len(self.balls)))
             else:
                 new_powerups.append(powerup)
         self.powerups = new_powerups
