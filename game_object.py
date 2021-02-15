@@ -1,4 +1,9 @@
 from colorama import Back
+from enum import Enum
+
+
+class Collision(Enum):
+    VERTICAL, HORIZONTAL, DIAGONAL, NOPE = range(4)
 
 
 class GameObject:
@@ -25,3 +30,19 @@ class GameObject:
 
     def get_speed(self):
         return self.speed_x, self.speed_y
+
+
+def objects_collision(small: GameObject, big: GameObject):
+    small_x, small_y, _, _, small_len = small.get_dim()
+    big_x, big_y, _, _, big_len = big.get_dim()
+    for i in range(big_len):
+        big_part_x = big_x + i
+        dist_x = small_x - big_part_x
+        dist_y = small_y - big_y
+        if (dist_x == 0 and dist_y == 1 and small.get_speed()[1] < 0) or (
+                dist_x == 0 and dist_y == -1 and small.get_speed()[1] > 0):
+            return Collision.VERTICAL
+        if (dist_y == 0 and dist_x == 1 and small.get_speed()[0] < 0) or (
+                dist_y == 0 and dist_x == -1 and small.get_speed()[0] > 0):
+            return Collision.HORIZONTAL
+    return Collision.NOPE

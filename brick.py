@@ -18,7 +18,7 @@ class Brick(GameObject):
     def __init__(self, max_width: int, max_height: int, strength: int, x: int, y: int, size: int, unbreakable=False):
         super().__init__(max_width, max_height, x, y)
         self.strength = strength
-        self.set_show(" " * size)
+        self.set_show("▏" + " " * (size - 2) + "▕")
         self.strength = strength
         self.set_strength(strength)
 

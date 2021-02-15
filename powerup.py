@@ -15,7 +15,6 @@ class PowerUpType(Enum):
 
 def createPowerUp(max_w, max_h, x, y):
     i = randint(0, 5)
-    i = 2
     if i == 0:
         return ShrinkPowerUp(max_w, max_h, x, y, i)
     if i == 1:
@@ -90,7 +89,6 @@ class MultPowerUp(PowerUp):
         super().__init__(max_width, max_height, x, y, pw_type)
 
     def power_up_activate(self, game):
-        log("AAAAAAAAAAAAAAAAAAAAAAAA\n")
         new_balls = []
         for ball in game.balls:
             new_balls.append(ball)

@@ -1,0 +1,1 @@
+BRICK_SIZE = 6

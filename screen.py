@@ -23,7 +23,7 @@ class Screen:
     def add_object(self, obj: GameObject):
         object_x, object_y, object_show, object_color, object_len = obj.get_dim()
         for i in range(object_len):
-            self.mat[object_y][object_x + i] = object_color + object_show[i] + Back.RESET
+            self.mat[object_y][min(object_x + i, self.width - 1)] = object_color + object_show[i] + Back.RESET
 
     def set_sprites(self, paddle: Paddle, bricks: [Brick], balls: [Ball], powerups: [PowerUp]):
         self.set_empty_screen()
@@ -38,18 +38,15 @@ class Screen:
     def render(self, time2, score, lives):
         print(f"Time {int(time.time() - time2)}  Score {score}  Lives {lives}\n", end="")
         self.add_border()
-        # for i in range(self.width):
-        #     print((i - 1) % 10, end="")
-        # print()
         for idx, line in enumerate(self.mat):
-            print(f'{idx % 10}', end="")
+            print(' ', end="")
             for c in line:
                 print(c, end="")
             print()
 
     def add_border(self):
-        self.mat.insert(0, ["_" for _ in range(self.width)])
-        self.mat.append(["_" for _ in range(self.width)])
+        self.mat.insert(0, [u"━" for _ in range(self.width)])
+        self.mat.append(["─" for _ in range(self.width)])
         for i in range(len(self.mat)):
-            self.mat[i].insert(0, "|")
-            self.mat[i].append("|")
+            self.mat[i].insert(0, u"┃")
+            self.mat[i].append(u"┃")
