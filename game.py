@@ -5,7 +5,7 @@ from paddle import Paddle
 from screen import Screen
 from ball import Ball
 
-from game_object import GameObject, Collision, objects_collision
+from game_object import GameObject, Collision, objects_collision_vh, objects_collision_d
 import time
 from powerup import PowerUpType, createPowerUp
 import numpy as np
@@ -72,7 +72,7 @@ class Game:
     def brick_ball_collision(self):
         for idx2 in range(len(self.bricks)):
             for idx, ball in enumerate(self.balls):
-                collision = objects_collision(ball, self.bricks[idx2])
+                collision = objects_collision_vh(ball, self.bricks[idx2])
                 if collision != Collision.NOPE:
                     if not self.thru_ball:
                         new_strength = self.bricks[idx2].got_hit()
@@ -83,15 +83,29 @@ class Game:
                             self.balls[idx].reverse_y_speed()
                         if collision == Collision.HORIZONTAL:
                             self.balls[idx].reverse_x_speed()
-                        if collision == Collision.DIAGONAL:
-                            self.balls[idx].reverse_x_speed()
-                            self.balls[idx].reverse_y_speed()
-                        log("collision no " + collision.name + "\n")
+                        log("collision " + collision.name + "\n")
                     else:
                         self.bricks[idx2].strength = 0
                         self.score += 1
                         self.spawn_powerup(self.bricks[idx2].get_dim()[0], self.bricks[idx2].get_dim()[1])
-
+        self.bricks = [brick for brick in self.bricks if brick.strength > 0]
+        for idx2 in range(len(self.bricks)):
+            for idx, ball in enumerate(self.balls):
+                collision = objects_collision_d(ball, self.bricks[idx2])
+                if collision != Collision.NOPE:
+                    if not self.thru_ball:
+                        new_strength = self.bricks[idx2].got_hit()
+                        if new_strength <= 0:
+                            self.score += 1
+                            self.spawn_powerup(self.bricks[idx2].get_dim()[0], self.bricks[idx2].get_dim()[1])
+                        if collision == Collision.DIAGONAL:
+                            self.balls[idx].reverse_x_speed()
+                            self.balls[idx].reverse_y_speed()
+                        log("collision " + collision.name + "\n")
+                    else:
+                        self.bricks[idx2].strength = 0
+                        self.score += 1
+                        self.spawn_powerup(self.bricks[idx2].get_dim()[0], self.bricks[idx2].get_dim()[1])
         self.bricks = [brick for brick in self.bricks if brick.strength > 0]
 
     def check_collision(self):
@@ -110,7 +124,7 @@ class Game:
                 powerup.set_time(time.time())
                 self.active_powerups.append(powerup)
                 powerup.power_up_activate(self)
-                log("activated powerup " + powerup.type.name)
+                log("activated powerup " + powerup.type.name +"\n")
                 # log(str(len(self.balls)))
             else:
                 new_powerups.append(powerup)
