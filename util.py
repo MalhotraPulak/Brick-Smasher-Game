@@ -24,5 +24,6 @@ def get_bricks(width, height) -> [Brick]:
 
 def show_message(score, time):
     cursor_to_top()
-    print(f"Game is over!!! Score = {score}, Time = {time}")
+    print(f"Game is over!!!")
+    print(f"Score = {score}, Time = {time}")
     print(f"Press q to exit, r to restart")

@@ -13,8 +13,8 @@ class Ball(GameObject):
         self.speed_y = -0.5
         self.actual_x = x
         self.actual_y = y
-        self.color = Back.YELLOW
-        self.set_show(" ")
+        self.color = Back.RESET
+        self.set_show("○")
 
     def move(self):
         self.actual_x += self.speed_x * self.speed_multiplier
