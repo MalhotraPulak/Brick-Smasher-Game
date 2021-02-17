@@ -32,9 +32,9 @@ class Ball(GameObject):
             self.actual_y = 0
             self.reverse_y_speed()
         if abs(self.actual_x - self.x) >= 1:
-            self.x = round(self.actual_x)
+            self.x = int(round(self.actual_x))
         if abs(self.actual_y - self.y) >= 1:
-            self.y = round(self.actual_y)
+            self.y = int(round(self.actual_y))
         return 0
 
     def reverse_x_speed(self):
