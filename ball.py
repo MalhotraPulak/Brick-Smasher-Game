@@ -3,12 +3,10 @@ from colorama import Back
 from util import log
 
 
-
-
 class Ball(GameObject):
     def __init__(self, max_width: int, max_height: int, x: int, y: int):
         super().__init__(max_width, max_height, x, y)
-        self.speed_multiplier = 0.75
+        self.speed_multiplier = 0.5
         self.speed_x = 0.5
         self.speed_y = -0.5
         self.actual_x = x
@@ -31,6 +29,7 @@ class Ball(GameObject):
         if self.actual_y < 0:
             self.actual_y = 0
             self.reverse_y_speed()
+        log(f"{self.x} {self.y}\n")
         if abs(self.actual_x - self.x) >= 1:
             self.x = int(round(self.actual_x))
         if abs(self.actual_y - self.y) >= 1:
@@ -38,9 +37,11 @@ class Ball(GameObject):
         return 0
 
     def reverse_x_speed(self):
+        self.actual_x = self.x
         self.speed_x = -self.speed_x
 
     def reverse_y_speed(self):
+        self.actual_y = self.y
         self.speed_y = -self.speed_y
 
     def get_speed(self):

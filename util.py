@@ -8,8 +8,9 @@ def cursor_to_top():
 
 
 def log(s):
-    with open("a.txt", "a") as f:
-        f.write(s)
+    return
+    # with open("a.txt", "a") as f:
+    #     f.write(s)
 
 
 def get_bricks(width, height) -> [Brick]:

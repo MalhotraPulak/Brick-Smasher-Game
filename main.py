@@ -16,7 +16,7 @@ class State(Enum):
 
 old = termios.tcgetattr(sys.stdin.fileno())
 tty.setcbreak(sys.stdin)
-
+print("\033[?25l")
 HEIGHT, WIDTH = os.popen('stty size', 'r').read().split()
 HEIGHT = int(HEIGHT) - 5
 WIDTH = int(WIDTH) - 4
@@ -34,6 +34,7 @@ while True:
         ch = sys.stdin.read(1)
     if ch == 'q':
         termios.tcsetattr(sys.stdin.fileno(), termios.TCSADRAIN, old)
+        print("\033[?25h")
         break
     if state == State.GAME:
         game.input(ch)

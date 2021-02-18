@@ -7,6 +7,7 @@ import time
 from powerup import PowerUp
 from util import log
 
+
 class Screen:
     def set_empty_screen(self):
         mat = []
@@ -22,7 +23,7 @@ class Screen:
 
     def add_object(self, obj: GameObject):
         object_x, object_y, object_show, object_color, object_len = obj.get_dim()
-        log(f"{object_x} !! {object_y} \n")
+        # log(f"{object_x} !! {object_y} \n")
         for i in range(object_len):
             self.mat[object_y][min(object_x + i, self.width - 1)] = object_color + object_show[i] + Back.RESET
 

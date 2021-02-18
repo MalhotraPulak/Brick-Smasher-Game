@@ -65,9 +65,11 @@ class ShrinkPowerUp(PowerUp):
 
     def power_up_activate(self, game):
         game.paddle.change_paddle_size(5)
+        game.paddle.color = Back.RED
 
     def power_up_deactivate(self, game):
         game.paddle.change_paddle_size(10)
+        game.paddle.color = Back.GREEN
 
 
 class ExpPowerUp(PowerUp):
@@ -76,9 +78,11 @@ class ExpPowerUp(PowerUp):
 
     def power_up_activate(self, game):
         game.paddle.change_paddle_size(20)
+        game.paddle.color = Back.MAGENTA
 
     def power_up_deactivate(self, game):
         game.paddle.change_paddle_size(10)
+        game.paddle.color = Back.GREEN
 
 
 class MultPowerUp(PowerUp):
@@ -117,6 +121,7 @@ class ThruPowerUp(PowerUp):
     def power_up_activate(self, game):
         game.thru_ball = True
 
+
     def power_up_deactivate(self, game):
         game.thru_ball = False
 
@@ -127,6 +132,8 @@ class GrabPowerUp(PowerUp):
 
     def power_up_activate(self, game):
         game.grab_ball = True
+        game.paddle.color = Back.YELLOW
 
     def power_up_deactivate(self, game):
         game.grab_ball = False
+        game.paddle.color = Back.GREEN

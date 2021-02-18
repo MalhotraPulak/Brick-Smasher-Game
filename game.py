@@ -40,7 +40,7 @@ class Game:
         self.paddle.move(inp)
 
     def spawn_powerup(self, x, y):
-        if random.randint(0, 2) == 0:
+        if random.randint(0, 1) == 0:
             self.powerups.append(createPowerUp(self.width, self.height, x, y))
 
     def check_paddle_collision(self, obj: GameObject):
