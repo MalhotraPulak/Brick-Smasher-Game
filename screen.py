@@ -1,4 +1,4 @@
-from paddle import Paddle
+from paddle import Paddle, Bullet
 from game_object import GameObject
 from colorama import Back
 from brick import Brick
@@ -27,18 +27,29 @@ class Screen:
         for i in range(object_len):
             self.mat[object_y][min(object_x + i, self.width - 1)] = object_color + object_show[i] + Back.RESET
 
-    def set_sprites(self, paddle: Paddle, bricks: [Brick], balls: [Ball], powerups: [PowerUp]):
+    def set_sprites(self, paddle: Paddle, bricks: [Brick], balls: [Ball], powerups: [PowerUp], bullets: [Bullet]):
         self.set_empty_screen()
         self.add_object(paddle)
         for brick in bricks:
             self.add_object(brick)
         for powerup in powerups:
             self.add_object(powerup)
+        for bullet in bullets:
+            log(str(type(bullet)))
+            self.add_object(bullet)
         for ball in balls:
             self.add_object(ball)
 
-    def render(self, time2, score, lives):
-        print(f"Time {int(time.time() - time2)}  Score {score}  Lives {lives}\n", end="")
+    def render(self, time2, score, lives, level, pwtime, ufo):
+        s = "                   "
+        if pwtime != 0:
+            s = "Bullet time {:.2f}".format(10 - pwtime)
+        if ufo != -1:
+            t = f"BOSS HEALTH: {ufo}"
+        else:
+            t = "    "
+        print(f"Time {int(time.time() - time2)}  Score {score}  Lives {lives} Level {level} {t}" + s)
+
         self.add_border()
         for idx, line in enumerate(self.mat):
             print(' ', end="")

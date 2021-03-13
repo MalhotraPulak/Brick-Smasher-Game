@@ -1,0 +1,6237 @@
+37 12
+dickkk 05 23
+dickkk 05 23
+dickkk 05 23
+dickkk 07 23
+dickkk 07 23
+dickkk 07 23
+dickkk 07 23
+dickkk 07 23
+dickkk 07 23
+dickkk 07 23
+dickkk 07 23
+dickkk 07 23
+dickkk 07 23
+dickkk 09 23
+dickkk 09 23
+dickkk 011 23
+dickkk 013 23
+dickkk 013 23
+dickkk 015 23
+dickkk 017 23
+dickkk 017 23
+dickkk 019 23
+dickkk 021 23
+dickkk 021 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 024 22
+dickkk 024 22
+dickkk 024 22
+dickkk 024 22
+dickkk 025 21
+dickkk 025 21
+dickkk 025 21
+dickkk 025 21
+dickkk 026 20
+dickkk 026 20
+dickkk 026 20
+dickkk 026 20
+dickkk 027 19
+dickkk 027 19
+dickkk 027 19
+dickkk 027 19
+dickkk 028 18
+dickkk 028 18
+dickkk 028 18
+dickkk 028 18
+dickkk 029 17
+dickkk 029 17
+dickkk 029 17
+dickkk 029 17
+dickkk 030 16
+dickkk 030 16
+dickkk 030 16
+dickkk 030 16
+dickkk 031 15
+dickkk 031 15
+dickkk 031 15
+dickkk 031 15
+dickkk 032 14
+dickkk 032 14
+dickkk 032 14
+dickkk 032 14
+dickkk 033 13
+dickkk 033 13
+dickkk 033 13
+dickkk 033 13
+dickkk 034 12
+dickkk 034 12
+dickkk 034 12
+dickkk 034 12
+dickkk 035 11
+dickkk 035 11
+dickkk 035 11
+dickkk 035 11
+dickkk 036 10
+dickkk 036 10
+dickkk 036 10
+dickkk 036 10
+dickkk 037 9
+dickkk 037 9
+dickkk 037 9
+dickkk 037 9
+dickkk 038 8
+dickkk 038 8
+dickkk 038 8
+dickkk 038 8
+dickkk 039 7
+dickkk 039 7
+dickkk 039 7
+dickkk 039 7
+dickkk 040 6
+36 5
+dickkk 040 6
+36 5
+dickkk 040 6
+36 5
+dickkk 040 6
+36 5
+dickkk 041 5
+37 5
+36 4
+42 5
+42 4
+dickkk 041 5
+37 4
+36 4
+42 5
+42 4
+dickkk 041 5
+37 4
+36 4
+42 5
+42 4
+dickkk 041 5
+37 4
+36 4
+42 5
+42 4
+dickkk 042 4
+38 4
+37 4
+43 5
+43 4
+42 3
+dickkk 042 4
+38 4
+37 3
+43 4
+43 3
+42 3
+dickkk 042 4
+38 3
+37 3
+43 4
+43 3
+42 3
+dickkk 042 4
+38 3
+37 3
+43 4
+43 3
+42 3
+dickkk 043 3
+39 3
+38 3
+44 4
+44 3
+43 3
+dickkk 043 3
+39 3
+38 3
+44 4
+44 3
+43 2
+dickkk 043 3
+39 3
+38 2
+44 3
+44 2
+43 2
+dickkk 043 3
+39 3
+38 2
+44 3
+44 2
+43 2
+dickkk 044 2
+40 3
+39 2
+45 3
+45 2
+44 2
+dickkk 044 2
+40 3
+39 2
+45 3
+45 2
+44 2
+dickkk 044 2
+40 3
+39 2
+45 3
+45 2
+44 1
+dickkk 044 2
+40 2
+39 2
+45 3
+45 2
+44 1
+dickkk 045 1
+41 2
+40 2
+46 3
+46 2
+45 1
+dickkk 045 1
+41 2
+40 2
+46 3
+46 2
+45 1
+dickkk 045 1
+41 2
+40 2
+46 3
+46 2
+45 1
+dickkk 045 1
+41 2
+40 1
+46 2
+46 1
+45 1
+dickkk 046 0
+42 2
+41 1
+47 2
+47 1
+46 1
+dickkk 046 0
+42 2
+41 1
+47 2
+47 1
+46 1
+dickkk 046 0
+42 2
+41 1
+47 2
+47 1
+46 1
+dickkk 046 0
+42 2
+41 1
+47 2
+47 1
+46 1
+dickkk 047 0
+43 2
+42 1
+48 2
+48 1
+47 1
+dickkk 047 1
+43 2
+42 1
+48 2
+48 1
+47 1
+dickkk 047 1
+43 2
+42 1
+48 2
+48 1
+47 1
+dickkk 047 1
+43 2
+42 1
+48 2
+48 1
+47 1
+dickkk 048 1
+44 2
+43 1
+49 2
+49 1
+48 1
+dickkk 048 2
+44 2
+43 1
+49 2
+49 1
+48 1
+48 3
+dickkk 048 2
+44 2
+43 1
+49 2
+49 1
+48 1
+48 3
+dickkk 048 2
+44 2
+43 1
+49 2
+49 1
+48 1
+48 3
+dickkk 049 2
+45 2
+44 1
+50 2
+50 1
+49 1
+48 3
+dickkk 049 3
+45 2
+44 1
+50 2
+50 1
+49 2
+49 4
+48 4
+dickkk 049 3
+45 2
+44 1
+50 2
+50 1
+49 2
+49 4
+48 4
+dickkk 049 3
+45 2
+44 1
+50 2
+50 1
+49 2
+49 4
+48 4
+dickkk 050 3
+46 2
+45 1
+51 2
+51 1
+50 2
+49 4
+48 4
+dickkk 050 4
+46 2
+45 1
+51 2
+51 1
+50 2
+50 5
+49 5
+48 5
+dickkk 050 4
+46 3
+45 1
+51 2
+51 1
+50 2
+50 5
+49 5
+48 5
+dickkk 050 4
+46 3
+45 1
+51 2
+51 1
+50 3
+50 5
+49 5
+48 5
+dickkk 051 4
+47 3
+46 1
+52 2
+52 1
+51 3
+50 6
+49 5
+48 5
+dickkk 051 5
+47 3
+46 1
+52 2
+52 1
+51 3
+51 6
+50 6
+49 6
+dickkk 051 5
+47 3
+46 2
+52 3
+52 2
+51 3
+51 7
+50 6
+49 6
+dickkk 051 5
+47 4
+46 2
+52 3
+52 2
+51 4
+51 7
+50 6
+49 6
+dickkk 052 5
+48 4
+47 2
+53 3
+53 2
+52 4
+51 7
+50 7
+49 6
+dickkk 052 6
+48 4
+47 2
+53 3
+53 2
+52 4
+52 8
+51 7
+50 7
+dickkk 052 6
+48 4
+47 2
+53 3
+53 2
+52 4
+52 8
+51 8
+50 7
+dickkk 052 6
+48 5
+47 3
+53 4
+53 3
+52 5
+52 9
+51 8
+50 7
+dickkk 053 6
+49 5
+48 3
+54 4
+54 3
+53 5
+52 9
+51 8
+50 8
+dickkk 053 7
+49 5
+48 3
+54 4
+54 3
+53 5
+53 9
+52 9
+51 8
+dickkk 053 7
+49 5
+48 3
+54 4
+54 3
+53 6
+53 10
+52 9
+51 9
+dickkk 053 7
+49 6
+48 4
+54 5
+54 4
+53 6
+53 10
+52 10
+51 9
+dickkk 054 7
+50 6
+49 4
+55 5
+55 4
+54 6
+53 11
+52 10
+51 9
+dickkk 054 8
+50 6
+49 4
+55 5
+55 4
+54 7
+54 11
+53 10
+52 10
+dickkk 054 8
+50 7
+49 4
+55 5
+55 4
+54 7
+54 12
+53 11
+52 10
+dickkk 054 8
+50 7
+49 5
+55 6
+55 5
+54 7
+54 12
+53 11
+52 11
+dickkk 055 8
+51 7
+50 5
+56 6
+56 5
+55 8
+54 13
+53 12
+52 11
+dickkk 055 9
+51 8
+50 5
+56 6
+56 5
+55 8
+55 13
+54 12
+53 11
+dickkk 055 9
+51 8
+50 6
+56 7
+56 6
+55 9
+55 14
+54 13
+53 12
+dickkk 055 9
+51 8
+50 6
+56 7
+56 6
+55 9
+55 14
+54 13
+53 12
+dickkk 056 9
+52 9
+51 6
+57 7
+57 6
+56 9
+55 15
+54 14
+53 13
+dickkk 056 10
+52 9
+51 7
+57 8
+57 7
+56 10
+56 15
+55 14
+54 13
+dickkk 056 10
+52 9
+51 7
+57 8
+57 7
+56 10
+56 16
+55 15
+54 14
+dickkk 056 10
+52 10
+51 7
+57 8
+57 7
+56 11
+56 16
+55 15
+54 14
+dickkk 057 10
+53 10
+52 8
+58 9
+58 8
+57 11
+56 17
+55 16
+54 15
+dickkk 057 11
+53 11
+52 8
+58 9
+58 8
+57 12
+57 17
+56 16
+55 15
+dickkk 057 11
+53 11
+52 8
+58 9
+58 8
+57 12
+57 18
+56 17
+55 16
+dickkk 057 11
+53 12
+52 9
+58 10
+58 9
+57 13
+57 18
+56 17
+55 16
+dickkk 058 11
+54 12
+53 9
+59 10
+59 9
+58 13
+57 19
+56 18
+55 17
+dickkk 058 12
+54 13
+53 10
+59 11
+59 10
+58 14
+58 19
+57 18
+56 17
+dickkk 058 12
+54 13
+53 10
+59 11
+59 10
+58 14
+58 20
+57 19
+56 18
+dickkk 058 12
+54 14
+53 11
+59 12
+59 11
+58 15
+58 20
+57 19
+56 18
+dickkk 059 12
+55 14
+54 11
+60 12
+60 11
+59 15
+58 21
+57 20
+56 19
+dickkk 059 13
+55 15
+54 12
+60 13
+60 12
+59 16
+59 21
+58 20
+57 19
+dickkk 059 13
+55 15
+54 12
+60 13
+60 12
+59 16
+59 22
+58 21
+57 20
+dickkk 059 13
+55 16
+54 13
+60 14
+60 13
+59 17
+59 22
+58 21
+57 20
+dickkk 0activated powerup EXP
+60 13
+56 16
+55 13
+61 14
+61 13
+60 17
+58 22
+57 21
+dickkk 060 14
+56 17
+55 14
+61 15
+61 14
+60 18
+59 22
+58 21
+dickkk 0activated powerup EXP
+60 14
+56 17
+55 14
+61 15
+61 14
+60 18
+58 22
+dickkk 060 14
+56 18
+55 15
+61 16
+61 15
+60 19
+58 22
+dickkk 0activated powerup SHRINK
+61 14
+57 18
+56 15
+62 16
+62 15
+61 19
+dickkk 061 15
+57 19
+56 16
+62 17
+62 16
+61 20
+dickkk 061 15
+57 19
+56 16
+62 17
+62 16
+61 20
+dickkk 061 15
+57 20
+56 17
+62 18
+62 17
+61 21
+dickkk 062 15
+58 20
+57 17
+63 18
+63 17
+62 21
+dickkk 062 16
+58 21
+57 18
+63 19
+63 18
+62 22
+dickkk 062 16
+58 21
+57 18
+63 19
+63 18
+62 22
+dickkk 0activated powerup MULT
+62 16
+62 16
+58 22
+57 19
+63 20
+63 19
+dickkk 063 16
+62 16
+59 22
+58 19
+64 20
+64 19
+dickkk 063 17
+62 16
+59 23
+58 20
+64 21
+64 20
+dickkk 063 17
+62 16
+59 23
+58 20
+64 21
+64 20
+dickkk 063 17
+63 15
+59 24
+58 21
+64 22
+64 21
+dickkk 064 17
+63 15
+59 21
+65 22
+65 21
+dickkk 0activated powerup EXP
+64 18
+63 15
+59 22
+65 22
+dickkk 064 18
+63 15
+59 22
+65 22
+dickkk 0activated powerup EXP
+64 18
+64 14
+59 23
+dickkk 065 18
+64 14
+60 23
+dickkk 065 19
+64 14
+60 24
+dickkk 065 19
+64 14
+dickkk 065 19
+65 13
+dickkk 066 19
+65 13
+dickkk 066 20
+65 13
+dickkk 066 20
+65 13
+dickkk 066 20
+66 12
+dickkk 067 20
+66 12
+dickkk 067 21
+66 12
+dickkk 067 21
+66 12
+dickkk 067 21
+67 11
+dickkk 068 21
+67 11
+dickkk 068 22
+67 11
+dickkk 068 22
+67 11
+dickkk 068 22
+68 10
+dickkk 069 22
+68 10
+dickkk 069 23
+68 10
+dickkk 069 23
+68 10
+dickkk 069 23
+69 9
+dickkk 069 23
+69 9
+dickkk 069 22
+69 9
+dickkk 068 22
+69 9
+dickkk 068 22
+70 8
+66 7
+dickkk 068 22
+70 8
+66 7
+dickkk 068 21
+70 8
+66 7
+dickkk 067 21
+70 8
+66 7
+dickkk 067 21
+71 7
+67 7
+66 6
+dickkk 067 21
+71 7
+67 6
+66 6
+dickkk 067 20
+71 7
+67 6
+66 6
+dickkk 066 20
+71 7
+67 6
+66 6
+dickkk 066 20
+72 6
+68 6
+67 6
+dickkk 066 20
+72 6
+68 6
+67 5
+dickkk 066 19
+72 6
+68 5
+67 5
+dickkk 065 19
+72 6
+68 5
+67 5
+dickkk 065 19
+73 5
+69 5
+68 5
+dickkk 065 19
+73 5
+69 5
+68 5
+dickkk 065 18
+73 5
+69 5
+68 4
+dickkk 064 18
+73 5
+69 5
+68 4
+dickkk 064 18
+73 4
+70 5
+69 4
+dickkk 064 18
+73 4
+70 5
+69 4
+dickkk 064 17
+73 4
+70 5
+69 4
+dickkk 063 17
+73 4
+70 4
+69 4
+dickkk 063 17
+72 3
+71 4
+70 4
+66 3
+66 2
+dickkk 063 17
+72 3
+71 4
+70 4
+66 3
+66 2
+dickkk 063 16
+72 3
+71 4
+70 4
+66 3
+66 2
+dickkk 062 16
+72 3
+71 4
+70 3
+66 3
+66 2
+dickkk 062 16
+71 2
+72 4
+71 3
+65 3
+65 2
+dickkk 062 16
+71 2
+72 4
+71 3
+65 2
+65 1
+dickkk 062 15
+71 2
+72 4
+71 3
+65 2
+65 1
+dickkk 061 15
+71 2
+72 4
+71 3
+65 2
+65 1
+dickkk 061 15
+70 1
+73 4
+72 3
+64 2
+64 1
+dickkk 061 15
+70 1
+73 4
+72 3
+64 2
+64 1
+dickkk 061 14
+70 1
+73 4
+72 3
+64 1
+64 1
+dickkk 060 14
+70 1
+73 4
+72 3
+64 1
+64 1
+dickkk 060 14
+69 0
+73 4
+73 3
+63 1
+63 1
+dickkk 060 14
+69 0
+73 4
+73 3
+63 1
+63 1
+dickkk 060 13
+69 0
+73 4
+73 3
+63 1
+63 1
+dickkk 059 13
+69 0
+73 4
+73 3
+63 1
+63 1
+dickkk 059 13
+68 0
+72 4
+73 3
+62 1
+62 2
+dickkk 059 13
+68 1
+72 4
+73 3
+62 1
+62 2
+dickkk 059 12
+68 1
+72 4
+73 3
+62 1
+62 2
+dickkk 058 12
+68 1
+72 4
+73 3
+62 1
+62 2
+dickkk 058 12
+67 1
+71 4
+72 3
+61 1
+61 2
+dickkk 058 12
+67 2
+71 4
+72 3
+61 1
+61 3
+dickkk 058 11
+67 2
+71 5
+72 3
+61 1
+61 3
+dickkk 057 11
+67 2
+71 5
+72 3
+61 1
+61 3
+dickkk 057 11
+66 2
+70 5
+71 3
+60 1
+60 4
+dickkk 057 11
+66 3
+70 5
+71 3
+60 1
+60 4
+66 4
+dickkk 057 10
+66 3
+70 5
+71 4
+60 1
+60 4
+66 4
+dickkk 056 10
+66 3
+70 6
+71 4
+60 1
+60 4
+66 4
+dickkk 056 10
+65 3
+69 6
+70 4
+59 1
+59 5
+66 4
+dickkk 056 10
+65 4
+69 6
+70 4
+59 2
+59 5
+65 5
+dickkk 056 9
+65 4
+69 6
+70 4
+59 2
+59 5
+65 5
+dickkk 055 9
+65 4
+69 7
+70 5
+59 2
+59 6
+65 5
+dickkk 055 9
+64 4
+68 7
+69 5
+58 2
+58 6
+65 5
+dickkk 055 9
+64 5
+68 7
+69 5
+58 2
+58 6
+64 6
+dickkk 055 8
+64 5
+68 7
+69 5
+58 2
+58 7
+64 6
+dickkk 054 8
+64 5
+68 8
+69 6
+58 3
+58 7
+64 6
+dickkk 054 8
+63 5
+67 8
+68 6
+57 3
+57 8
+64 7
+dickkk 054 8
+63 6
+67 8
+68 6
+57 3
+57 8
+63 7
+dickkk 054 7
+63 6
+67 9
+68 6
+57 3
+57 8
+63 8
+dickkk 053 7
+63 6
+67 9
+68 7
+57 4
+57 9
+63 8
+dickkk 053 7
+62 6
+66 9
+67 7
+56 4
+56 9
+63 8
+dickkk 053 7
+62 7
+66 10
+67 7
+56 4
+56 10
+62 9
+dickkk 053 6
+62 7
+66 10
+67 8
+56 4
+56 10
+62 9
+dickkk 052 6
+62 7
+66 10
+67 8
+56 5
+56 11
+62 10
+dickkk 052 6
+61 7
+65 11
+66 8
+55 5
+55 11
+62 10
+dickkk 052 6
+61 8
+65 11
+66 9
+55 5
+55 12
+61 10
+dickkk 052 5
+61 8
+65 11
+66 9
+55 6
+55 12
+61 11
+dickkk 051 5
+61 8
+65 12
+66 9
+55 6
+55 13
+61 11
+dickkk 051 5
+60 8
+64 12
+65 10
+54 6
+54 13
+61 12
+dickkk 051 5
+60 9
+64 13
+65 10
+54 7
+54 14
+60 12
+dickkk 051 4
+60 9
+64 13
+65 10
+54 7
+54 14
+60 13
+dickkk 050 4
+60 9
+64 14
+65 11
+54 7
+54 15
+60 13
+dickkk 050 4
+59 9
+63 14
+64 11
+53 8
+53 15
+60 14
+dickkk 050 4
+59 10
+63 15
+64 12
+53 8
+53 16
+59 14
+dickkk 050 3
+59 10
+63 15
+64 12
+53 9
+53 16
+59 15
+dickkk 049 3
+59 10
+63 16
+64 13
+53 9
+53 17
+59 15
+dickkk 049 3
+58 10
+62 16
+63 13
+52 9
+52 17
+59 16
+dickkk 049 3
+58 11
+62 17
+63 14
+52 10
+52 18
+58 16
+dickkk 049 2
+58 11
+62 17
+63 14
+52 10
+52 18
+58 17
+dickkk 048 2
+58 11
+62 18
+63 15
+52 11
+52 19
+58 17
+dickkk 048 2
+57 11
+61 18
+62 15
+51 11
+51 19
+58 18
+dickkk 048 2
+57 12
+61 19
+62 16
+51 12
+51 20
+57 18
+dickkk 048 1
+57 12
+61 19
+62 16
+51 12
+51 20
+57 19
+dickkk 047 1
+57 12
+61 20
+62 17
+51 13
+51 21
+57 19
+dickkk 047 1
+56 12
+60 20
+61 17
+50 13
+50 21
+57 20
+dickkk 047 1
+56 13
+60 21
+61 18
+50 14
+50 22
+56 20
+dickkk 047 0
+56 13
+60 21
+61 18
+50 14
+50 22
+56 21
+dickkk 0activated powerup EXP
+46 0
+56 13
+60 22
+61 19
+50 15
+56 21
+dickkk 046 0
+55 13
+59 22
+60 19
+49 15
+56 22
+dickkk 046 0
+55 14
+59 23
+60 20
+49 16
+55 22
+dickkk 0activated powerup SHRINK
+46 0
+55 14
+59 23
+60 20
+49 16
+dickkk 045 1
+55 14
+59 24
+60 21
+49 17
+dickkk 045 1
+54 14
+59 21
+48 17
+dickkk 045 1
+54 15
+59 22
+48 18
+dickkk 045 1
+54 15
+59 22
+48 18
+dickkk 044 2
+54 15
+59 23
+48 19
+dickkk 044 2
+53 15
+58 23
+47 19
+dickkk 044 2
+53 16
+58 24
+47 20
+dickkk 044 2
+53 16
+47 20
+dickkk 043 3
+53 16
+47 21
+dickkk 043 3
+52 16
+46 21
+dickkk 043 3
+52 17
+46 22
+dickkk 043 3
+52 17
+46 22
+dickkk 042 4
+52 17
+46 23
+dickkk 042 4
+51 17
+45 23
+dickkk 042 4
+51 18
+45 24
+dickkk 042 4
+51 18
+dickkk 041 5
+51 18
+dickkk 041 5
+50 18
+dickkk 041 5
+50 19
+dickkk 041 5
+50 19
+dickkk 040 6
+50 19
+dickkk 040 6
+49 19
+dickkk 040 6
+49 20
+dickkk 040 6
+49 20
+dickkk 039 7
+49 20
+dickkk 039 7
+48 20
+dickkk 039 7
+48 21
+dickkk 039 7
+48 21
+dickkk 038 8
+48 21
+dickkk 038 8
+47 21
+dickkk 038 8
+47 22
+dickkk 038 8
+47 22
+dickkk 037 9
+47 22
+dickkk 037 9
+46 22
+dickkk 037 9
+46 23
+dickkk 037 9
+46 23
+dickkk 036 10
+46 23
+dickkk 036 10
+45 23
+dickkk 036 10
+45 24
+dickkk 036 10
+45 24
+dickkk 035 11
+45 24
+dickkk 035 11
+dickkk 035 11
+dickkk 035 11
+dickkk 034 12
+dickkk 034 12
+dickkk 034 12
+dickkk 034 12
+dickkk 033 13
+dickkk 033 13
+dickkk 033 13
+dickkk 033 13
+dickkk 032 14
+dickkk 032 14
+dickkk 032 14
+dickkk 032 14
+dickkk 031 15
+dickkk 031 15
+dickkk 031 15
+dickkk 031 15
+dickkk 030 16
+dickkk 030 16
+dickkk 030 16
+dickkk 030 16
+dickkk 029 17
+dickkk 029 17
+dickkk 029 17
+dickkk 029 17
+dickkk 028 18
+dickkk 028 18
+dickkk 028 18
+dickkk 028 18
+dickkk 027 19
+dickkk 027 19
+dickkk 027 19
+dickkk 027 19
+dickkk 026 20
+dickkk 026 20
+dickkk 026 20
+dickkk 026 20
+dickkk 025 21
+dickkk 025 21
+dickkk 025 21
+dickkk 025 21
+dickkk 024 22
+dickkk 024 22
+dickkk 024 22
+dickkk 024 22
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 022 22
+dickkk 022 22
+dickkk 022 22
+dickkk 022 22
+dickkk 021 21
+dickkk 021 21
+dickkk 021 21
+dickkk 021 21
+dickkk 020 20
+dickkk 020 20
+dickkk 020 20
+dickkk 020 20
+dickkk 019 19
+dickkk 019 19
+dickkk 019 19
+dickkk 019 19
+dickkk 018 18
+dickkk 018 18
+dickkk 018 18
+dickkk 018 18
+dickkk 017 17
+dickkk 017 17
+dickkk 017 17
+dickkk 017 17
+dickkk 016 16
+dickkk 016 16
+dickkk 016 16
+dickkk 016 16
+dickkk 015 15
+dickkk 015 15
+dickkk 015 15
+dickkk 015 15
+dickkk 014 14
+dickkk 014 14
+dickkk 014 14
+dickkk 014 14
+dickkk 013 13
+dickkk 013 13
+dickkk 013 13
+dickkk 013 13
+dickkk 012 12
+dickkk 012 12
+dickkk 012 12
+dickkk 012 12
+dickkk 011 11
+dickkk 011 11
+dickkk 011 11
+dickkk 011 11
+dickkk 010 10
+dickkk 010 10
+dickkk 010 10
+dickkk 010 10
+dickkk 09 9
+6 8
+dickkk 09 9
+6 8
+dickkk 09 9
+6 8
+dickkk 09 9
+6 8
+dickkk 08 8
+5 8
+6 7
+dickkk 08 8
+5 7
+6 7
+dickkk 08 8
+5 7
+6 7
+dickkk 08 8
+5 7
+6 7
+dickkk 07 7
+4 7
+5 7
+6 6
+dickkk 07 7
+4 7
+5 6
+6 6
+dickkk 07 7
+4 6
+5 6
+6 6
+dickkk 07 7
+4 6
+5 6
+6 6
+dickkk 06 6
+3 6
+4 6
+5 6
+6 5
+dickkk 06 6
+3 6
+4 6
+5 5
+6 5
+dickkk 06 6
+3 6
+4 5
+5 5
+6 5
+dickkk 06 6
+3 6
+4 5
+5 5
+6 5
+dickkk 05 5
+2 6
+3 5
+4 5
+5 5
+dickkk 05 5
+2 6
+3 5
+4 5
+5 4
+dickkk 05 5
+2 6
+3 5
+4 4
+5 4
+dickkk 05 5
+2 5
+3 5
+4 4
+5 4
+dickkk 04 4
+1 5
+2 5
+3 4
+4 4
+dickkk 04 4
+1 5
+2 5
+3 4
+4 4
+dickkk 04 4
+1 5
+2 5
+3 4
+4 3
+dickkk 04 4
+1 5
+2 4
+3 4
+4 3
+dickkk 03 3
+0 5
+1 4
+2 4
+3 3
+dickkk 03 3
+0 5
+1 4
+2 4
+3 3
+dickkk 03 3
+0 5
+1 4
+2 4
+3 3
+dickkk 03 3
+0 5
+1 4
+2 3
+3 3
+dickkk 02 2
+0 5
+0 4
+1 3
+2 3
+dickkk 02 2
+1 5
+0 4
+1 3
+2 3
+dickkk 02 2
+1 5
+0 4
+1 3
+2 3
+dickkk 02 2
+1 5
+0 4
+1 3
+2 2
+dickkk 01 1
+1 5
+0 4
+0 3
+1 2
+dickkk 01 1
+2 5
+1 4
+0 3
+1 2
+dickkk 01 1
+2 5
+1 4
+0 3
+1 2
+dickkk 01 1
+2 5
+1 4
+0 3
+1 2
+dickkk 00 0
+2 5
+1 4
+0 3
+0 2
+dickkk 00 0
+3 5
+2 4
+1 3
+0 2
+dickkk 00 0
+3 5
+2 4
+1 3
+0 2
+dickkk 00 0
+3 5
+2 4
+1 3
+0 2
+dickkk 00 0
+3 5
+2 4
+1 3
+0 2
+dickkk 01 1
+4 5
+3 4
+2 3
+1 2
+dickkk 01 1
+4 6
+3 4
+2 3
+1 2
+dickkk 01 1
+4 6
+3 4
+2 3
+1 2
+dickkk 01 1
+4 6
+3 4
+2 3
+1 2
+dickkk 02 2
+5 6
+4 4
+3 3
+2 2
+dickkk 02 2
+5 6
+4 5
+3 3
+2 2
+dickkk 02 2
+5 7
+4 5
+3 3
+2 2
+dickkk 02 2
+5 7
+4 5
+3 3
+2 2
+dickkk 03 3
+6 7
+5 5
+4 3
+3 2
+dickkk 03 3
+6 7
+5 5
+4 4
+3 2
+dickkk 03 3
+6 8
+5 6
+4 4
+3 2
+dickkk 03 3
+6 8
+5 6
+4 4
+3 2
+dickkk 04 4
+7 8
+6 6
+5 4
+4 2
+dickkk 04 4
+7 8
+6 6
+5 4
+4 3
+dickkk 04 4
+7 9
+6 7
+5 5
+4 3
+dickkk 04 4
+7 9
+6 7
+5 5
+4 3
+dickkk 05 5
+8 9
+7 7
+6 5
+5 3
+dickkk 05 5
+8 10
+7 7
+6 5
+5 3
+dickkk 05 5
+8 10
+7 8
+6 6
+5 4
+dickkk 05 5
+8 10
+7 8
+6 6
+5 4
+dickkk 06 6
+9 11
+8 8
+7 6
+6 4
+dickkk 06 6
+9 11
+8 9
+7 6
+6 4
+dickkk 06 6
+9 11
+8 9
+7 7
+6 5
+dickkk 06 6
+9 12
+8 9
+7 7
+6 5
+dickkk 07 7
+10 12
+9 10
+8 7
+7 5
+dickkk 07 7
+10 12
+9 10
+8 8
+7 5
+dickkk 07 7
+10 13
+9 10
+8 8
+7 6
+dickkk 07 7
+10 13
+9 11
+8 8
+7 6
+dickkk 08 8
+11 14
+10 11
+9 9
+8 6
+dickkk 08 8
+11 14
+10 11
+9 9
+8 7
+dickkk 08 8
+11 15
+10 12
+9 9
+8 7
+dickkk 08 8
+11 15
+10 12
+9 10
+8 7
+dickkk 09 9
+12 16
+11 13
+10 10
+9 8
+dickkk 09 9
+12 16
+11 13
+10 10
+9 8
+dickkk 09 9
+12 17
+11 14
+10 11
+9 8
+dickkk 09 9
+12 17
+11 14
+10 11
+9 9
+dickkk 010 10
+13 18
+12 15
+11 12
+10 9
+dickkk 010 10
+13 18
+12 15
+11 12
+10 9
+dickkk 010 10
+13 19
+12 16
+11 13
+10 10
+dickkk 010 10
+13 19
+12 16
+11 13
+10 10
+dickkk 011 11
+14 20
+13 17
+12 14
+11 11
+dickkk 011 11
+14 20
+13 17
+12 14
+11 11
+dickkk 011 11
+14 21
+13 18
+12 15
+11 12
+dickkk 011 11
+14 21
+13 18
+12 15
+11 12
+dickkk 012 12
+15 22
+14 19
+13 16
+12 13
+dickkk 012 12
+15 22
+14 19
+13 16
+12 13
+dickkk 0activated powerup BULLET
+12 12
+14 20
+13 17
+12 14
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>12 12
+14 20
+13 17
+12 14
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>13 13
+15 21
+14 18
+13 15
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>13 13
+15 21
+14 18
+13 15
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>13 13
+15 22
+14 19
+13 16
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>13 13
+15 22
+14 19
+13 16
+dickkk 2activated powerup SHRINK
+<class 'paddle.Bullet'><class 'paddle.Bullet'>14 14
+15 20
+14 17
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>14 14
+15 20
+14 17
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>14 14
+15 21
+14 18
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>14 14
+15 21
+14 18
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>15 15
+16 22
+15 19
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>15 15
+16 22
+15 19
+dickkk 2activated powerup FAST
+<class 'paddle.Bullet'><class 'paddle.Bullet'>15 15
+15 20
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>16 16
+15 20
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>16 16
+16 21
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>17 17
+16 21
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>17 17
+16 22
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>18 18
+16 22
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>18 18
+17 23
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>19 19
+17 23
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>19 19
+17 24
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>20 20
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>20 20
+dickkk 021 21
+dickkk 021 21
+dickkk 022 22
+dickkk 022 22
+dickkk 023 23
+dickkk 023 23
+dickkk 024 24
+dickkk 0dickkk 019 23
+dickkk 019 23
+dickkk 019 23
+dickkk 019 23
+dickkk 019 23
+dickkk 019 23
+dickkk 019 23
+dickkk 021 23
+dickkk 021 23
+dickkk 023 23
+dickkk 025 23
+dickkk 025 23
+dickkk 027 23
+dickkk 029 23
+dickkk 031 23
+dickkk 031 23
+dickkk 031 23
+dickkk 031 23
+dickkk 031 23
+dickkk 031 23
+dickkk 031 23
+dickkk 031 23
+dickkk 031 23
+dickkk 031 23
+dickkk 031 23
+dickkk 031 23
+dickkk 031 23
+dickkk 031 23
+dickkk 031 23
+dickkk 031 23
+dickkk 031 22
+dickkk 031 22
+dickkk 031 22
+dickkk 031 22
+dickkk 032 21
+dickkk 032 21
+dickkk 032 21
+dickkk 032 21
+dickkk 032 20
+dickkk 032 20
+dickkk 032 20
+dickkk 032 20
+dickkk 033 19
+dickkk 033 19
+dickkk 033 19
+dickkk 033 19
+dickkk 033 18
+dickkk 033 18
+dickkk 033 18
+dickkk 033 18
+dickkk 034 17
+dickkk 034 17
+dickkk 034 17
+dickkk 034 17
+dickkk 034 16
+dickkk 034 16
+dickkk 034 16
+dickkk 034 16
+dickkk 035 15
+dickkk 035 15
+dickkk 035 15
+dickkk 035 15
+dickkk 035 14
+dickkk 035 14
+dickkk 035 14
+dickkk 035 14
+dickkk 036 13
+dickkk 036 13
+dickkk 036 13
+dickkk 036 13
+dickkk 036 12
+dickkk 036 12
+dickkk 036 12
+dickkk 036 12
+dickkk 037 11
+dickkk 037 11
+dickkk 037 11
+dickkk 037 11
+dickkk 037 10
+dickkk 037 10
+dickkk 037 10
+dickkk 037 10
+dickkk 038 9
+dickkk 038 9
+dickkk 038 9
+dickkk 038 9
+dickkk 038 8
+dickkk 038 8
+dickkk 038 8
+dickkk 038 8
+dickkk 039 7
+dickkk 039 7
+dickkk 039 7
+dickkk 039 7
+dickkk 039 6
+dickkk 039 6
+dickkk 039 6
+dickkk 039 6
+dickkk 040 5
+36 4
+dickkk 040 5
+36 4
+dickkk 040 5
+36 4
+dickkk 040 5
+36 4
+dickkk 040 4
+36 4
+dickkk 040 4
+36 3
+dickkk 040 4
+36 3
+dickkk 040 4
+36 3
+dickkk 041 3
+37 3
+dickkk 041 3
+37 3
+dickkk 041 3
+37 2
+dickkk 041 3
+37 2
+dickkk 041 2
+37 2
+dickkk 041 2
+37 2
+dickkk 041 2
+37 2
+dickkk 041 2
+37 2
+dickkk 042 1
+38 2
+dickkk 042 1
+38 2
+dickkk 042 1
+38 2
+dickkk 042 1
+38 1
+dickkk 042 0
+38 1
+dickkk 042 0
+38 1
+dickkk 042 0
+38 1
+dickkk 042 0
+38 1
+dickkk 043 0
+39 1
+dickkk 043 1
+39 1
+dickkk 043 1
+39 1
+dickkk 043 1
+39 1
+dickkk 043 1
+39 1
+dickkk 043 2
+39 1
+dickkk 043 2
+39 1
+dickkk 043 2
+39 1
+dickkk 044 2
+40 1
+dickkk 044 3
+40 1
+dickkk 044 3
+40 1
+dickkk 044 3
+40 1
+dickkk 044 3
+40 1
+dickkk 044 4
+40 1
+dickkk 044 4
+40 1
+dickkk 044 4
+40 1
+dickkk 045 4
+41 1
+dickkk 045 5
+41 1
+dickkk 045 5
+41 2
+dickkk 045 5
+41 2
+dickkk 045 5
+41 2
+dickkk 045 6
+41 2
+dickkk 045 6
+41 2
+dickkk 045 6
+41 3
+dickkk 046 6
+42 3
+dickkk 046 7
+42 3
+dickkk 046 7
+42 3
+dickkk 046 7
+42 4
+dickkk 046 7
+42 4
+dickkk 046 8
+42 4
+dickkk 046 8
+42 4
+dickkk 046 8
+42 5
+dickkk 047 8
+43 5
+dickkk 047 9
+43 5
+dickkk 047 9
+43 6
+dickkk 047 9
+43 6
+dickkk 047 9
+43 6
+dickkk 047 10
+43 7
+dickkk 047 10
+43 7
+dickkk 047 10
+43 7
+dickkk 048 10
+44 8
+dickkk 048 11
+44 8
+dickkk 048 11
+44 8
+dickkk 048 11
+44 9
+dickkk 048 11
+44 9
+dickkk 048 12
+44 10
+dickkk 048 12
+44 10
+dickkk 048 12
+44 11
+dickkk 049 12
+45 11
+dickkk 049 13
+45 12
+dickkk 049 13
+45 12
+dickkk 049 13
+45 13
+dickkk 049 13
+45 13
+dickkk 049 14
+45 14
+dickkk 049 14
+45 14
+dickkk 049 14
+45 15
+dickkk 050 14
+46 15
+dickkk 050 15
+46 16
+dickkk 050 15
+46 16
+dickkk 050 15
+46 17
+dickkk 050 15
+46 17
+dickkk 050 16
+46 18
+dickkk 050 16
+46 18
+dickkk 050 16
+46 19
+dickkk 051 16
+47 19
+dickkk 051 17
+47 20
+dickkk 051 17
+47 20
+dickkk 051 17
+47 21
+dickkk 051 17
+47 21
+dickkk 051 18
+47 22
+dickkk 051 18
+47 22
+dickkk 051 18
+47 23
+dickkk 052 18
+48 23
+dickkk 052 19
+48 24
+dickkk 052 19
+dickkk 052 19
+dickkk 052 19
+dickkk 052 20
+dickkk 052 20
+dickkk 052 20
+dickkk 053 20
+dickkk 053 21
+dickkk 053 21
+dickkk 053 21
+dickkk 053 21
+dickkk 053 22
+dickkk 053 22
+dickkk 053 22
+dickkk 054 22
+dickkk 054 23
+dickkk 054 23
+dickkk 054 23
+dickkk 053 23
+dickkk 053 22
+dickkk 053 22
+dickkk 052 22
+dickkk 052 22
+dickkk 052 21
+dickkk 051 21
+dickkk 051 21
+dickkk 050 21
+dickkk 050 20
+dickkk 050 20
+dickkk 049 20
+dickkk 049 20
+dickkk 049 19
+dickkk 048 19
+dickkk 048 19
+dickkk 047 19
+dickkk 047 18
+dickkk 047 18
+dickkk 046 18
+dickkk 046 18
+dickkk 046 17
+dickkk 045 17
+dickkk 045 17
+dickkk 044 17
+dickkk 044 16
+dickkk 044 16
+dickkk 043 16
+dickkk 043 16
+dickkk 043 15
+dickkk 042 15
+dickkk 042 15
+dickkk 041 15
+dickkk 041 14
+dickkk 041 14
+dickkk 040 14
+dickkk 040 14
+dickkk 040 13
+dickkk 039 13
+dickkk 039 13
+dickkk 038 13
+dickkk 038 12
+dickkk 038 12
+dickkk 037 12
+dickkk 037 12
+dickkk 037 11
+dickkk 036 11
+dickkk 036 11
+dickkk 035 11
+dickkk 035 10
+dickkk 035 10
+dickkk 034 10
+dickkk 034 10
+dickkk 034 9
+dickkk 033 9
+dickkk 033 9
+dickkk 032 9
+dickkk 032 8
+30 7
+dickkk 032 8
+30 7
+dickkk 031 8
+30 7
+dickkk 031 8
+29 7
+dickkk 031 7
+29 7
+30 6
+dickkk 030 7
+29 6
+30 6
+24 7
+24 6
+dickkk 030 7
+28 6
+30 6
+24 7
+24 6
+dickkk 029 7
+28 6
+29 6
+24 7
+24 6
+dickkk 029 6
+27 6
+29 6
+23 7
+23 6
+24 5
+dickkk 029 6
+27 6
+29 5
+23 7
+23 6
+24 5
+dickkk 028 6
+27 5
+28 5
+23 6
+23 5
+24 5
+dickkk 028 6
+26 5
+28 5
+22 6
+22 5
+23 5
+dickkk 028 5
+26 5
+27 5
+22 6
+22 5
+23 5
+dickkk 027 5
+26 5
+27 5
+21 6
+21 5
+23 4
+dickkk 027 5
+25 5
+27 4
+21 6
+21 5
+22 4
+dickkk 026 5
+25 5
+26 4
+21 5
+21 4
+22 4
+dickkk 026 4
+24 5
+26 4
+20 5
+20 4
+21 4
+dickkk 026 4
+24 5
+26 4
+20 5
+20 4
+21 4
+dickkk 025 4
+24 5
+25 4
+20 5
+20 4
+21 3
+dickkk 025 4
+23 4
+25 4
+19 5
+19 4
+20 3
+dickkk 025 3
+23 4
+24 4
+19 5
+19 4
+20 3
+dickkk 024 3
+23 4
+24 4
+18 5
+18 4
+20 3
+dickkk 024 3
+22 4
+24 4
+18 5
+18 4
+19 3
+dickkk 023 3
+22 4
+23 3
+18 5
+18 4
+19 3
+dickkk 023 2
+21 4
+23 3
+17 4
+17 3
+18 3
+dickkk 023 2
+21 4
+23 3
+17 4
+17 3
+18 3
+dickkk 022 2
+21 4
+22 3
+17 4
+17 3
+18 3
+dickkk 022 2
+20 4
+22 3
+16 4
+16 3
+17 2
+dickkk 022 1
+20 4
+21 3
+16 4
+16 3
+17 2
+dickkk 021 1
+20 4
+21 3
+15 4
+15 3
+17 2
+dickkk 021 1
+19 4
+21 3
+15 4
+15 3
+16 2
+dickkk 020 1
+19 4
+20 3
+15 4
+15 3
+16 2
+dickkk 020 0
+18 4
+20 3
+14 4
+14 3
+15 2
+dickkk 020 0
+18 4
+20 3
+14 4
+14 3
+15 2
+dickkk 019 0
+18 4
+19 3
+14 4
+14 3
+15 2
+dickkk 019 0
+17 4
+19 3
+13 4
+13 3
+14 2
+dickkk 019 0
+17 4
+18 3
+13 4
+13 3
+14 2
+dickkk 018 1
+17 4
+18 3
+12 4
+12 3
+14 2
+dickkk 018 1
+16 4
+18 3
+12 4
+12 3
+13 2
+dickkk 017 1
+16 4
+17 3
+12 4
+12 3
+13 2
+dickkk 017 1
+15 4
+17 3
+11 4
+11 3
+12 2
+dickkk 017 2
+15 4
+17 3
+11 4
+11 3
+12 2
+dickkk 016 2
+15 5
+16 3
+11 4
+11 3
+12 2
+dickkk 016 2
+14 5
+16 3
+10 4
+10 3
+11 2
+dickkk 016 2
+14 5
+15 3
+10 4
+10 3
+11 2
+dickkk 015 3
+14 5
+15 3
+9 4
+9 3
+11 2
+dickkk 015 3
+13 5
+15 4
+9 4
+9 3
+10 2
+dickkk 014 3
+13 6
+14 4
+9 5
+9 4
+10 2
+dickkk 014 3
+12 6
+14 4
+8 5
+8 4
+9 2
+dickkk 014 4
+12 6
+14 4
+8 5
+8 4
+9 2
+dickkk 013 4
+12 6
+13 4
+8 5
+8 4
+9 3
+dickkk 013 4
+11 7
+13 5
+7 5
+7 4
+8 3
+dickkk 013 4
+11 7
+12 5
+7 6
+7 5
+8 3
+dickkk 012 5
+11 7
+12 5
+6 6
+6 5
+8 3
+6 5
+dickkk 012 5
+10 7
+12 5
+6 6
+6 5
+7 3
+6 5
+dickkk 011 5
+10 8
+11 6
+6 6
+6 5
+7 4
+6 5
+dickkk 011 5
+9 8
+11 6
+5 7
+5 6
+6 4
+5 5
+dickkk 011 6
+9 8
+11 6
+5 7
+5 6
+6 4
+5 6
+dickkk 010 6
+9 9
+10 6
+5 7
+5 6
+6 4
+5 6
+dickkk 010 6
+8 9
+10 7
+4 7
+4 6
+5 5
+4 6
+dickkk 010 6
+8 9
+9 7
+4 8
+4 7
+5 5
+4 6
+dickkk 09 7
+8 10
+9 7
+3 8
+3 7
+5 5
+3 7
+dickkk 09 7
+7 10
+9 8
+3 8
+3 7
+4 5
+3 7
+dickkk 08 7
+7 10
+8 8
+3 9
+3 8
+4 6
+3 7
+dickkk 08 7
+6 11
+8 8
+2 9
+2 8
+3 6
+2 8
+dickkk 08 8
+6 11
+8 9
+2 9
+2 8
+3 6
+2 8
+dickkk 07 8
+6 11
+7 9
+2 10
+2 9
+3 7
+2 9
+dickkk 07 8
+5 12
+7 9
+1 10
+1 9
+2 7
+1 9
+dickkk 07 8
+5 12
+6 10
+1 10
+1 9
+2 7
+1 9
+dickkk 06 9
+5 13
+6 10
+0 11
+0 10
+2 8
+0 10
+dickkk 06 9
+4 13
+6 10
+0 11
+0 10
+1 8
+0 10
+dickkk 05 9
+4 14
+5 11
+0 11
+0 10
+1 8
+0 11
+dickkk 05 9
+3 14
+5 11
+0 12
+0 11
+0 9
+0 11
+dickkk 05 10
+3 15
+5 12
+1 12
+1 11
+0 9
+1 11
+dickkk 04 10
+3 15
+4 12
+1 13
+1 12
+0 9
+1 12
+dickkk 04 10
+2 16
+4 13
+1 13
+1 12
+0 10
+1 12
+dickkk 04 10
+2 16
+3 13
+2 14
+2 13
+1 10
+2 13
+dickkk 03 11
+2 17
+3 14
+2 14
+2 13
+1 11
+2 13
+dickkk 03 11
+1 17
+3 14
+3 15
+3 14
+1 11
+3 14
+dickkk 02 11
+1 18
+2 15
+3 15
+3 14
+2 12
+3 14
+dickkk 02 11
+0 18
+2 15
+3 16
+3 15
+2 12
+3 15
+dickkk 02 12
+0 19
+2 16
+4 16
+4 15
+3 13
+4 15
+dickkk 01 12
+0 19
+1 16
+4 17
+4 16
+3 13
+4 16
+dickkk 01 12
+0 20
+1 17
+4 17
+4 16
+3 14
+4 16
+dickkk 01 12
+1 20
+0 17
+5 18
+5 17
+4 14
+5 17
+dickkk 01 13
+1 21
+0 18
+5 18
+5 17
+4 15
+5 17
+dickkk 01 13
+1 21
+0 18
+6 19
+6 18
+4 15
+6 18
+dickkk 01 13
+2 22
+0 19
+6 19
+6 18
+5 16
+6 18
+dickkk 02 13
+2 22
+1 19
+6 20
+6 19
+5 16
+6 19
+dickkk 02 14
+3 23
+1 20
+7 20
+7 19
+6 17
+7 19
+dickkk 02 14
+3 23
+1 20
+7 21
+7 20
+6 17
+7 20
+dickkk 03 14
+3 24
+2 21
+7 21
+7 20
+6 18
+7 20
+dickkk 03 14
+2 21
+8 22
+8 21
+7 18
+8 21
+dickkk 04 15
+3 22
+8 22
+8 21
+7 19
+8 21
+dickkk 0activated powerup FAST
+4 15
+3 22
+9 22
+7 19
+9 22
+dickkk 0activated powerup BULLET
+5 15
+9 22
+8 20
+9 22
+dickkk 2activated powerup FAST
+activated powerup EXP
+<class 'paddle.Bullet'><class 'paddle.Bullet'>5 16
+8 20
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>7 16
+9 21
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>7 17
+9 21
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>8 17
+9 22
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>8 18
+10 22
+dickkk 2activated powerup MULT
+<class 'paddle.Bullet'><class 'paddle.Bullet'>10 18
+10 18
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>10 19
+10 18
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>11 19
+10 18
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>11 20
+10 18
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>13 20
+11 17
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>13 21
+11 17
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>14 21
+11 17
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>14 22
+11 17
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>16 22
+12 16
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>16 23
+12 16
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>16 23
+12 16
+dickkk 2<class 'paddle.Bullet'>17 22
+12 16
+dickkk 1<class 'paddle.Bullet'>17 22
+13 15
+dickkk 1<class 'paddle.Bullet'>18 21
+13 15
+dickkk 1<class 'paddle.Bullet'>18 21
+13 15
+dickkk 1<class 'paddle.Bullet'>19 20
+13 15
+dickkk 1<class 'paddle.Bullet'>19 20
+14 14
+dickkk 020 19
+14 14
+dickkk 020 19
+14 14
+dickkk 021 18
+14 14
+dickkk 021 18
+15 13
+dickkk 022 17
+15 13
+dickkk 022 17
+15 13
+dickkk 023 16
+15 13
+dickkk 023 16
+16 12
+dickkk 024 15
+16 12
+dickkk 024 15
+16 12
+dickkk 025 14
+16 12
+dickkk 025 14
+17 11
+dickkk 026 13
+17 11
+dickkk 026 13
+17 11
+dickkk 027 12
+17 11
+dickkk 027 12
+18 10
+dickkk 028 11
+18 10
+dickkk 028 11
+18 10
+dickkk 029 10
+18 10
+dickkk 029 10
+19 9
+18 8
+dickkk 030 9
+19 9
+18 8
+dickkk 030 9
+19 9
+18 8
+dickkk 031 8
+19 9
+18 8
+dickkk 031 8
+20 8
+19 8
+18 7
+dickkk 032 7
+20 8
+19 7
+18 7
+30 6
+dickkk 032 7
+20 8
+19 7
+18 7
+30 6
+dickkk 033 6
+20 8
+19 7
+18 7
+30 6
+dickkk 033 6
+21 7
+20 7
+19 7
+30 6
+18 6
+dickkk 034 5
+21 7
+20 7
+19 6
+31 6
+18 6
+dickkk 034 5
+21 7
+20 6
+19 6
+31 5
+18 6
+dickkk 035 4
+21 7
+20 6
+19 6
+31 5
+18 6
+dickkk 035 4
+22 6
+21 6
+20 6
+31 5
+19 6
+dickkk 036 3
+22 6
+21 6
+20 6
+32 5
+19 5
+dickkk 036 3
+22 6
+21 6
+20 5
+32 5
+19 5
+dickkk 037 2
+22 6
+21 6
+20 5
+32 4
+19 5
+dickkk 037 2
+23 5
+22 6
+21 5
+32 4
+20 5
+dickkk 038 1
+23 5
+22 6
+21 5
+33 4
+20 5
+dickkk 038 1
+23 5
+22 6
+21 5
+33 4
+20 4
+dickkk 039 0
+23 5
+22 5
+21 5
+33 4
+20 4
+dickkk 039 0
+24 4
+23 5
+22 5
+33 4
+21 4
+dickkk 040 0
+24 4
+23 5
+22 5
+34 4
+21 4
+dickkk 040 1
+24 4
+23 5
+22 5
+34 4
+21 4
+dickkk 041 1
+24 4
+23 5
+22 4
+34 4
+21 4
+dickkk 041 2
+25 3
+24 5
+23 4
+34 3
+22 4
+dickkk 042 2
+25 3
+24 5
+23 4
+35 3
+22 4
+dickkk 042 3
+25 3
+24 5
+23 4
+35 3
+22 4
+dickkk 043 3
+25 3
+24 5
+23 4
+35 3
+22 3
+dickkk 043 4
+26 2
+25 5
+24 4
+35 3
+23 3
+dickkk 044 4
+26 2
+25 5
+24 4
+36 3
+23 3
+dickkk 044 5
+26 2
+25 5
+24 4
+36 3
+23 3
+dickkk 045 5
+26 2
+25 5
+24 4
+36 3
+23 3
+dickkk 045 6
+27 1
+26 5
+25 4
+36 3
+24 3
+dickkk 046 6
+27 1
+26 5
+25 4
+37 3
+24 3
+dickkk 046 7
+27 1
+26 5
+25 4
+37 3
+24 3
+dickkk 047 7
+27 1
+26 5
+25 4
+37 3
+24 3
+dickkk 047 8
+28 0
+27 5
+26 4
+37 3
+25 3
+dickkk 048 8
+28 0
+27 5
+26 4
+38 3
+25 3
+dickkk 048 9
+28 0
+27 5
+26 4
+38 3
+25 3
+dickkk 049 9
+28 0
+27 5
+26 4
+38 3
+25 3
+dickkk 049 10
+29 0
+28 5
+27 4
+38 3
+26 3
+dickkk 050 10
+29 1
+28 5
+27 4
+39 3
+26 3
+dickkk 050 11
+29 1
+28 6
+27 4
+39 3
+26 3
+dickkk 051 11
+29 1
+28 6
+27 4
+39 3
+26 3
+dickkk 051 12
+30 1
+29 6
+28 4
+39 3
+27 3
+dickkk 052 12
+30 2
+29 6
+28 4
+40 3
+27 3
+dickkk 052 13
+30 2
+29 6
+28 5
+40 3
+27 3
+dickkk 053 13
+30 2
+29 7
+28 5
+40 4
+27 3
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>53 14
+31 2
+30 7
+29 5
+40 4
+28 3
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>54 14
+31 3
+30 7
+29 5
+41 4
+28 3
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>54 15
+31 3
+30 7
+29 5
+41 4
+28 4
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>55 15
+31 3
+30 8
+29 6
+41 4
+28 4
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>55 16
+32 3
+31 8
+30 6
+41 5
+29 4
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>56 16
+32 4
+31 8
+30 6
+42 5
+29 4
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>56 17
+32 4
+31 8
+30 6
+42 5
+29 4
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>57 17
+32 4
+31 9
+30 7
+42 5
+29 5
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>57 18
+33 4
+32 9
+31 7
+42 6
+30 5
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>58 18
+33 5
+32 9
+31 7
+43 6
+30 5
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>58 19
+33 5
+32 10
+31 7
+43 6
+30 5
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>59 19
+33 5
+32 10
+31 8
+43 6
+30 6
+dickkk 2<class 'paddle.Bullet'><class 'paddle.Bullet'>59 20
+34 5
+33 10
+32 8
+43 7
+31 6
+dickkk 2<class 'paddle.Bullet'>60 20
+34 6
+33 11
+32 8
+44 7
+31 6
+54 8
+dickkk 1<class 'paddle.Bullet'>60 21
+34 6
+33 11
+32 9
+44 7
+31 6
+54 8
+dickkk 1<class 'paddle.Bullet'>61 21
+34 6
+33 11
+32 9
+44 8
+31 7
+54 8
+dickkk 1<class 'paddle.Bullet'>61 22
+35 6
+34 12
+33 9
+44 8
+32 7
+54 8
+dickkk 1<class 'paddle.Bullet'>62 22
+35 7
+34 12
+33 10
+45 8
+32 7
+55 9
+dickkk 1<class 'paddle.Bullet'>62 23
+35 7
+34 12
+33 10
+45 9
+32 8
+55 9
+dickkk 1<class 'paddle.Bullet'>62 23
+35 7
+34 13
+33 10
+45 9
+32 8
+55 9
+dickkk 1<class 'paddle.Bullet'>62 22
+36 7
+35 13
+34 11
+45 9
+33 8
+55 9
+dickkk 1<class 'paddle.Bullet'>62 22
+36 8
+35 14
+34 11
+46 10
+33 9
+56 10
+dickkk 062 21
+36 8
+35 14
+34 11
+46 10
+33 9
+56 10
+dickkk 062 21
+36 8
+35 15
+34 12
+46 10
+33 9
+56 10
+dickkk 062 20
+37 8
+36 15
+35 12
+46 11
+34 10
+56 11
+dickkk 062 20
+37 9
+36 16
+35 13
+47 11
+34 10
+57 11
+dickkk 061 19
+37 9
+36 16
+35 13
+47 12
+34 10
+57 12
+dickkk 061 19
+37 9
+36 17
+35 14
+47 12
+34 11
+57 12
+dickkk 061 18
+38 9
+37 17
+36 14
+47 13
+35 11
+57 12
+dickkk 061 18
+38 10
+37 18
+36 15
+48 13
+35 12
+58 13
+dickkk 060 17
+38 10
+37 18
+36 15
+48 14
+35 12
+58 13
+dickkk 060 17
+38 10
+37 19
+36 16
+48 14
+35 13
+58 14
+dickkk 060 16
+39 10
+38 19
+37 16
+48 15
+36 13
+58 14
+dickkk 060 16
+39 11
+38 20
+37 17
+49 15
+36 14
+59 14
+dickkk 059 15
+39 11
+38 20
+37 17
+49 16
+36 14
+59 15
+dickkk 059 15
+39 11
+38 21
+37 18
+49 16
+36 15
+59 15
+dickkk 059 14
+40 11
+39 21
+38 18
+49 17
+37 15
+59 16
+dickkk 059 14
+40 12
+39 22
+38 19
+50 17
+37 16
+60 16
+dickkk 058 13
+40 12
+39 22
+38 19
+50 18
+37 16
+60 17
+dickkk 058 13
+40 12
+39 23
+38 20
+50 18
+37 17
+60 17
+dickkk 058 12
+41 12
+40 23
+39 20
+50 19
+38 17
+60 18
+dickkk 058 12
+41 13
+40 24
+39 21
+51 19
+38 18
+61 18
+dickkk 057 11
+41 13
+39 21
+51 20
+38 18
+61 19
+dickkk 057 11
+41 13
+39 22
+51 20
+38 19
+61 19
+dickkk 057 10
+42 13
+40 22
+51 21
+39 19
+61 20
+dickkk 057 10
+42 14
+40 23
+52 21
+39 20
+62 20
+dickkk 056 9
+42 14
+40 23
+52 22
+39 20
+62 21
+54 8
+dickkk 056 9
+42 14
+40 24
+52 22
+39 21
+62 21
+54 8
+dickkk 0activated powerup GRAB
+level upped56 8
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 049 23
+dickkk 047 23
+dickkk 047 23
+dickkk 047 23
+dickkk 047 23
+dickkk 047 23
+dickkk 047 23
+dickkk 047 23
+dickkk 047 23
+dickkk 047 23
+dickkk 047 23
+dickkk 047 23
+dickkk 045 23
+dickkk 045 23
+dickkk 043 23
+dickkk 041 23
+dickkk 039 23
+dickkk 039 23
+dickkk 037 23
+dickkk 035 23
+dickkk 035 23
+dickkk 033 23
+dickkk 031 23
+dickkk 031 23
+dickkk 029 23
+dickkk 029 23
+dickkk 027 23
+dickkk 025 23
+dickkk 025 23
+dickkk 023 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 021 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 23
+dickkk 023 22
+dickkk 023 22
+dickkk 023 22
+dickkk 023 22
+dickkk 022 21
+dickkk 022 21
+dickkk 022 21
+dickkk 022 21
+dickkk 022 20
+dickkk 022 20
+dickkk 022 20
+dickkk 022 20
+dickkk 021 19
+dickkk 021 19
+dickkk 021 19
+dickkk 021 19
+dickkk 021 18
+dickkk 021 18
+dickkk 021 18
+dickkk 021 18
+dickkk 020 17
+dickkk 020 17
+dickkk 020 17
+dickkk 020 17
+dickkk 020 16
+dickkk 020 16
+dickkk 020 16
+dickkk 020 16
+dickkk 019 15
+dickkk 019 15
+dickkk 019 15
+dickkk 019 15
+dickkk 019 14
+dickkk 019 14
+dickkk 019 14
+dickkk 019 14
+dickkk 018 13
+dickkk 018 13
+dickkk 018 13
+dickkk 018 13
+dickkk 018 12
+dickkk 018 12
+dickkk 018 12
+dickkk 018 12
+dickkk 017 11
+dickkk 017 11
+dickkk 017 11
+dickkk 017 11
+dickkk 017 10
+dickkk 017 10
+dickkk 017 10
+dickkk 017 10
+dickkk 016 9
+dickkk 016 9
+dickkk 016 9
+dickkk 016 9
+dickkk 016 8
+dickkk 016 8
+dickkk 016 8
+dickkk 016 8
+dickkk 015 7
+dickkk 015 7
+dickkk 015 7
+dickkk 015 7
+dickkk 015 6
+dickkk 015 6
+dickkk 015 6
+dickkk 015 6
+dickkk 014 5
+dickkk 014 5
+dickkk 014 5
+dickkk 014 5
+dickkk 014 4
+dickkk 014 4
+dickkk 014 4
+dickkk 014 4
+dickkk 013 3
+dickkk 013 3
+dickkk 013 3
+dickkk 013 3
+dickkk 013 2
+dickkk 013 2
+dickkk 013 2
+dickkk 013 2
+dickkk 012 1
+dickkk 012 1
+dickkk 012 1
+dickkk 012 1
+dickkk 012 0
+dickkk 012 0
+dickkk 012 0
+dickkk 012 0
+dickkk 011 0
+dickkk 011 1
+6 2
+dickkk 011 1
+6 2
+dickkk 011 1
+6 2
+dickkk 011 1
+6 2
+dickkk 011 2
+6 3
+6 3
+dickkk 011 2
+6 3
+6 3
+dickkk 011 2
+6 3
+6 3
+dickkk 010 2
+6 3
+6 3
+dickkk 010 3
+5 4
+6 4
+6 4
+dickkk 010 3
+5 4
+6 4
+6 4
+dickkk 010 3
+5 4
+6 4
+6 4
+dickkk 010 3
+5 5
+6 4
+6 4
+dickkk 010 4
+5 5
+5 5
+6 5
+6 5
+dickkk 010 4
+5 6
+5 5
+6 5
+6 5
+dickkk 010 4
+5 6
+5 5
+6 5
+6 5
+dickkk 09 4
+5 6
+5 6
+6 5
+6 5
+dickkk 09 5
+4 7
+5 6
+5 6
+6 6
+6 6
+dickkk 09 5
+4 7
+5 7
+5 6
+6 6
+6 6
+dickkk 09 5
+4 8
+5 7
+5 6
+6 6
+6 6
+dickkk 09 5
+4 8
+5 7
+5 7
+6 6
+6 6
+dickkk 09 6
+4 8
+4 8
+5 7
+5 7
+6 7
+6 7
+dickkk 09 6
+4 9
+4 8
+5 8
+5 7
+6 7
+6 7
+dickkk 09 6
+4 9
+4 9
+5 8
+5 7
+6 7
+6 7
+dickkk 08 6
+4 10
+4 9
+5 8
+5 8
+6 7
+6 7
+dickkk 08 7
+3 10
+4 9
+4 9
+5 8
+5 8
+6 8
+dickkk 08 7
+3 11
+4 10
+4 9
+5 9
+5 8
+6 8
+dickkk 08 7
+3 11
+4 10
+4 10
+5 9
+5 8
+6 8
+dickkk 08 7
+3 12
+4 11
+4 10
+5 9
+5 9
+6 8
+dickkk 08 8
+3 12
+3 11
+4 10
+4 10
+5 9
+5 9
+dickkk 08 8
+3 13
+3 12
+4 11
+4 10
+5 10
+5 9
+dickkk 08 8
+3 13
+3 12
+4 11
+4 11
+5 10
+5 9
+dickkk 07 8
+3 14
+3 13
+4 12
+4 11
+5 10
+5 10
+dickkk 07 9
+2 14
+3 13
+3 12
+4 11
+4 11
+5 10
+dickkk 07 9
+2 15
+3 14
+3 13
+4 12
+4 11
+5 11
+dickkk 07 9
+2 15
+3 14
+3 13
+4 12
+4 12
+5 11
+dickkk 07 9
+2 16
+3 15
+3 14
+4 13
+4 12
+5 11
+dickkk 07 10
+2 16
+2 15
+3 14
+3 13
+4 12
+4 12
+dickkk 07 10
+2 17
+2 16
+3 15
+3 14
+4 13
+4 12
+dickkk 07 10
+2 17
+2 16
+3 15
+3 14
+4 13
+4 13
+dickkk 06 10
+2 18
+2 17
+3 16
+3 15
+4 14
+4 13
+dickkk 06 11
+1 18
+2 17
+2 16
+3 15
+3 14
+4 13
+dickkk 06 11
+1 19
+2 18
+2 17
+3 16
+3 15
+4 14
+dickkk 06 11
+1 19
+2 18
+2 17
+3 16
+3 15
+4 14
+dickkk 06 11
+1 20
+2 19
+2 18
+3 17
+3 16
+4 15
+dickkk 06 12
+1 20
+1 19
+2 18
+2 17
+3 16
+3 15
+dickkk 06 12
+1 21
+1 20
+2 19
+2 18
+3 17
+3 16
+dickkk 06 12
+1 21
+1 20
+2 19
+2 18
+3 17
+3 16
+dickkk 05 12
+1 22
+1 21
+2 20
+2 19
+3 18
+3 17
+dickkk 05 13
+0 22
+1 21
+1 20
+2 19
+2 18
+3 17
+dickkk 0activated powerup THRU
+5 13
+1 22
+1 21
+2 20
+2 19
+3 18
+dickkk 05 13
+1 22
+1 21
+2 20
+2 19
+3 18
+dickkk 0activated powerup SHRINK
+5 13
+1 22
+2 21
+2 20
+3 19
+dickkk 05 14
+1 22
+1 21
+2 20
+2 19
+dickkk 0activated powerup SHRINK
+5 14
+1 22
+2 21
+2 20
+dickkk 05 14
+1 22
+2 21
+2 20
+dickkk 0activated powerup SHRINK
+4 14
+2 22
+2 21
+dickkk 04 15
+1 22
+2 21
+dickkk 0activated powerup SHRINK
+4 15
+2 22
+dickkk 04 15
+2 22
+dickkk 0activated powerup GRAB
+4 15
+dickkk 04 16
+dickkk 04 16
+dickkk 04 16
+dickkk 03 16
+dickkk 03 17
+dickkk 03 17
+dickkk 03 17
+dickkk 03 17
+dickkk 03 18
+dickkk 03 18
+dickkk 03 18
+dickkk 02 18
+dickkk 02 19
+dickkk 02 19
+dickkk 02 19
+dickkk 02 19
+dickkk 02 20
+dickkk 02 20
+dickkk 02 20
+dickkk 01 20
+dickkk 01 21
+dickkk 01 21
+dickkk 01 21
+dickkk 01 21
+dickkk 01 22
+dickkk 01 22
+dickkk 01 22
+dickkk 00 22
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 02 23
+dickkk 01 23
+dickkk 01 22
+dickkk 01 22
+dickkk 01 22
+dickkk 01 22
+dickkk 01 21
+dickkk 02 21
+dickkk 02 21
+dickkk 02 21
+dickkk 03 20
+dickkk 03 20
+dickkk 04 20
+dickkk 04 20
+dickkk 04 19
+dickkk 05 19
+dickkk 05 19
+dickkk 05 19
+dickkk 06 18
+dickkk 06 18
+dickkk 07 18
+dickkk 07 18
+dickkk 07 17
+dickkk 08 17
+dickkk 08 17
+dickkk 08 17
+dickkk 09 16
+dickkk 09 16
+dickkk 010 16
+dickkk 010 16
+dickkk 010 15
+dickkk 011 15
+dickkk 011 15
+dickkk 011 15
+dickkk 012 14
+dickkk 012 14
+dickkk 013 14
+dickkk 013 14
+dickkk 013 13
+dickkk 014 13
+dickkk 014 13
+dickkk 014 13
+dickkk 015 12
+dickkk 015 12
+dickkk 016 12
+dickkk 016 12
+dickkk 016 11
+dickkk 017 11
+dickkk 017 11
+dickkk 017 11
+dickkk 018 10
+dickkk 018 10
+dickkk 019 10
+dickkk 019 10
+dickkk 019 9
+dickkk 020 9
+dickkk 020 9
+dickkk 020 9
+dickkk 021 8
+dickkk 021 8
+dickkk 022 8
+dickkk 022 8
+dickkk 022 7
+dickkk 023 7
+dickkk 023 7
+dickkk 023 7
+dickkk 024 6
+dickkk 024 6
+dickkk 025 6
+dickkk 025 6
+dickkk 025 5
+24 4
+dickkk 026 5
+24 4
+dickkk 026 5
+24 4
+dickkk 026 5
+25 4
+dickkk 027 4
+25 4
+dickkk 027 4
+25 3
+dickkk 028 4
+26 3
+dickkk 028 4
+26 3
+dickkk 028 3
+27 3
+dickkk 029 3
+27 3
+dickkk 029 3
+27 2
+dickkk 029 3
+28 2
+dickkk 030 2
+28 2
+dickkk 030 2
+28 2
+dickkk 031 2
+29 2
+dickkk 031 2
+29 2
+dickkk 031 1
+30 2
+dickkk 032 1
+30 2
+dickkk 032 1
+30 2
+dickkk 032 1
+31 1
+dickkk 033 0
+31 1
+dickkk 033 0
+31 1
+dickkk 034 0
+32 1
+dickkk 034 0
+32 1
+dickkk 034 0
+33 1
+dickkk 035 1
+33 1
+dickkk 035 1
+33 1
+dickkk 035 1
+34 1
+dickkk 036 1
+34 1
+dickkk 036 2
+34 1
+dickkk 037 2
+35 1
+dickkk 037 2
+35 1
+dickkk 037 2
+36 1
+dickkk 038 3
+36 1
+dickkk 038 3
+36 1
+dickkk 038 3
+37 1
+dickkk 039 3
+37 1
+dickkk 039 4
+37 1
+dickkk 040 4
+38 1
+dickkk 040 4
+38 1
+dickkk 040 4
+39 1
+dickkk 041 5
+39 1
+dickkk 041 5
+39 2
+dickkk 041 5
+40 2
+dickkk 042 5
+40 2
+dickkk 042 6
+40 2
+dickkk 043 6
+41 2
+dickkk 043 6
+41 3
+dickkk 043 6
+42 3
+dickkk 044 7
+42 3
+dickkk 044 7
+42 3
+dickkk 044 7
+43 4
+dickkk 045 7
+43 4
+dickkk 045 8
+43 4
+dickkk 046 8
+44 4
+dickkk 046 8
+44 5
+dickkk 046 8
+45 5
+dickkk 047 9
+45 5
+dickkk 047 9
+45 6
+dickkk 047 9
+46 6
+dickkk 048 9
+46 6
+dickkk 048 10
+46 7
+dickkk 049 10
+47 7
+dickkk 049 10
+47 7
+dickkk 049 10
+48 8
+dickkk 050 11
+48 8
+dickkk 050 11
+48 8
+dickkk 050 11
+49 9
+dickkk 051 11
+49 9
+dickkk 051 12
+49 10
+dickkk 052 12
+50 10
+dickkk 052 12
+50 11
+dickkk 052 12
+51 11
+dickkk 053 13
+51 12
+dickkk 053 13
+51 12
+dickkk 053 13
+52 13
+dickkk 054 13
+52 13
+dickkk 054 14
+52 14
+dickkk 055 14
+53 14
+dickkk 055 14
+53 15
+dickkk 055 14
+54 15
+dickkk 056 15
+54 16
+dickkk 056 15
+54 16
+dickkk 056 15
+55 17
+dickkk 057 15
+55 17
+dickkk 057 16
+55 18
+dickkk 058 16
+56 18
+dickkk 058 16
+56 19
+dickkk 058 16
+57 19
+dickkk 059 17
+57 20
+dickkk 059 17
+57 20
+dickkk 059 17
+58 21
+dickkk 060 17
+58 21
+dickkk 060 18
+58 22
+dickkk 061 18
+59 22
+dickkk 061 18
+59 23
+dickkk 061 18
+60 23
+dickkk 062 19
+60 24
+dickkk 062 19
+dickkk 062 19
+dickkk 063 19
+dickkk 063 20
+dickkk 064 20
+dickkk 064 20
+dickkk 064 20
+dickkk 065 21
+dickkk 065 21
+dickkk 065 21
+dickkk 066 21
+dickkk 066 22
+dickkk 067 22
+dickkk 067 22
+dickkk 067 22
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 068 23
+dickkk 066 23
+dickkk 066 23
+dickkk 066 23
+dickkk 066 23
+dickkk 066 23
+dickkk 066 23
+dickkk 066 23
+dickkk 066 23
+dickkk 066 23
+dickkk 066 23
+dickkk 066 23
+dickkk 064 23
+dickkk 062 23
+dickkk 062 23
+dickkk 060 23
+dickkk 058 23
+dickkk 058 23
+dickkk 056 23
+dickkk 054 23
+dickkk 054 23
+dickkk 052 23
+dickkk 050 23
+dickkk 050 23
+dickkk 048 23
+dickkk 046 23
+dickkk 046 23
+dickkk 044 23
+dickkk 042 23
+dickkk 042 23
+dickkk 040 23
+dickkk 038 23
+dickkk 038 23
+dickkk 036 23
+dickkk 034 23
+dickkk 034 23
+dickkk 032 23
+dickkk 030 23
+dickkk 030 23
+dickkk 028 23
+dickkk 026 23
+dickkk 026 23
+dickkk 024 23
+dickkk 022 23
+dickkk 022 23
+dickkk 020 23
+dickkk 020 23
+dickkk 020 23
+dickkk 020 23
+dickkk 020 23
+dickkk 020 23
+dickkk 020 23
+dickkk 020 23
+dickkk 020 23
+dickkk 020 23
+dickkk 020 23
+dickkk 020 23
+dickkk 020 23
+dickkk 020 23
+dickkk 020 23
+dickkk 020 23
+dickkk 020 23
+dickkk 020 23
+dickkk 020 23
+dickkk 020 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 018 23
+dickkk 016 23
+dickkk 016 23
+dickkk 016 23
+dickkk 016 23
+dickkk 016 23
+dickkk 016 23
+dickkk 016 23
+dickkk 016 23
+dickkk 016 23
+dickkk 016 23
+dickkk 016 23
+dickkk 014 23
+dickkk 014 23
+dickkk 012 23
+dickkk 010 23
+dickkk 010 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 08 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 22
+dickkk 013 22
+dickkk 013 22
+dickkk 013 22
+dickkk 012 21
+dickkk 012 21
+dickkk 012 21
+dickkk 012 21
+dickkk 012 20
+dickkk 012 20
+dickkk 012 20
+dickkk 012 20
+dickkk 011 19
+dickkk 011 19
+dickkk 011 19
+dickkk 011 19
+dickkk 011 18
+dickkk 011 18
+dickkk 011 18
+dickkk 011 18
+dickkk 010 17
+dickkk 010 17
+dickkk 010 17
+dickkk 010 17
+dickkk 010 16
+dickkk 010 16
+dickkk 010 16
+dickkk 010 16
+dickkk 09 15
+dickkk 09 15
+dickkk 09 15
+dickkk 09 15
+dickkk 09 14
+dickkk 09 14
+dickkk 09 14
+dickkk 09 14
+dickkk 08 13
+dickkk 08 13
+dickkk 08 13
+dickkk 08 13
+dickkk 08 12
+dickkk 08 12
+dickkk 08 12
+dickkk 08 12
+dickkk 07 11
+dickkk 07 11
+dickkk 07 11
+dickkk 07 11
+dickkk 07 10
+dickkk 07 10
+dickkk 07 10
+dickkk 07 10
+dickkk 06 9
+dickkk 06 9
+dickkk 06 9
+dickkk 06 9
+dickkk 06 8
+dickkk 06 8
+dickkk 06 8
+dickkk 06 8
+dickkk 05 7
+dickkk 05 7
+dickkk 05 7
+dickkk 05 7
+dickkk 05 6
+dickkk 05 6
+dickkk 05 6
+dickkk 05 6
+dickkk 04 5
+dickkk 04 5
+dickkk 04 5
+dickkk 04 5
+dickkk 04 4
+dickkk 04 4
+dickkk 04 4
+dickkk 04 4
+dickkk 03 3
+dickkk 03 3
+dickkk 03 3
+dickkk 03 3
+dickkk 03 2
+dickkk 03 2
+dickkk 03 2
+dickkk 03 2
+dickkk 02 1
+dickkk 02 1
+dickkk 02 1
+dickkk 02 1
+dickkk 02 0
+dickkk 02 0
+dickkk 02 0
+dickkk 02 0
+dickkk 01 0
+dickkk 01 1
+dickkk 01 1
+dickkk 01 1
+dickkk 01 1
+dickkk 01 2
+dickkk 01 2
+dickkk 01 2
+dickkk 00 2
+dickkk 00 3
+dickkk 00 3
+dickkk 00 3
+dickkk 00 3
+dickkk 00 4
+dickkk 00 4
+dickkk 00 4
+dickkk 00 4
+dickkk 01 5
+dickkk 01 5
+dickkk 01 5
+dickkk 01 5
+dickkk 01 6
+dickkk 01 6
+dickkk 01 6
+dickkk 01 6
+dickkk 02 7
+dickkk 02 7
+dickkk 02 7
+dickkk 02 7
+dickkk 02 8
+dickkk 02 8
+dickkk 02 8
+dickkk 02 8
+dickkk 03 9
+dickkk 03 9
+dickkk 03 9
+dickkk 03 9
+dickkk 03 10
+dickkk 03 10
+dickkk 03 10
+dickkk 03 10
+dickkk 04 11
+dickkk 04 11
+dickkk 04 11
+dickkk 04 11
+dickkk 04 12
+dickkk 04 12
+dickkk 04 12
+dickkk 04 12
+dickkk 05 13
+dickkk 05 13
+dickkk 05 13
+dickkk 05 13
+dickkk 05 14
+dickkk 05 14
+dickkk 05 14
+dickkk 05 14
+dickkk 06 15
+dickkk 06 15
+dickkk 06 15
+dickkk 06 15
+dickkk 06 16
+dickkk 06 16
+dickkk 06 16
+dickkk 06 16
+dickkk 07 17
+dickkk 07 17
+dickkk 07 17
+dickkk 07 17
+dickkk 07 18
+dickkk 07 18
+dickkk 07 18
+dickkk 07 18
+dickkk 08 19
+dickkk 08 19
+dickkk 08 19
+dickkk 08 19
+dickkk 08 20
+dickkk 08 20
+dickkk 08 20
+dickkk 08 20
+dickkk 09 21
+dickkk 09 21
+dickkk 09 21
+dickkk 09 21
+dickkk 09 22
+dickkk 09 22
+dickkk 09 22
+dickkk 09 22
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 23
+dickkk 010 22
+dickkk 010 22
+dickkk 010 22
+dickkk 010 22
+dickkk 011 21
+dickkk 011 21
+dickkk 011 21
+dickkk 011 21
+dickkk 011 20
+dickkk 011 20
+dickkk 011 20
+dickkk 011 20
+dickkk 012 19
+dickkk 012 19
+dickkk 012 19
+dickkk 012 19
+dickkk 012 18
+dickkk 012 18
+dickkk 012 18
+dickkk 012 18
+dickkk 013 17
+dickkk 013 17
+dickkk 013 17
+dickkk 013 17
+dickkk 013 16
+dickkk 013 16
+dickkk 013 16
+dickkk 013 16
+dickkk 014 15
+dickkk 014 15
+dickkk 014 15
+dickkk 014 15
+dickkk 014 14
+dickkk 014 14
+dickkk 014 14
+dickkk 014 14
+dickkk 015 13
+dickkk 015 13
+dickkk 015 13
+dickkk 015 13
+dickkk 015 12
+dickkk 015 12
+dickkk 015 12
+dickkk 015 12
+dickkk 016 11
+dickkk 016 11
+dickkk 016 11
+dickkk 016 11
+dickkk 016 10
+dickkk 016 10
+dickkk 016 10
+dickkk 016 10
+dickkk 017 9
+dickkk 017 9
+dickkk 017 9
+dickkk 017 9
+dickkk 017 8
+dickkk 017 8
+dickkk 017 8
+dickkk 017 8
+collision VERTICAL
+dickkk 018 7
+18 6
+dickkk 018 7
+18 6
+dickkk 018 7
+18 6
+dickkk 018 7
+18 6
+dickkk 018 8
+18 6
+dickkk 018 8
+18 5
+dickkk 018 8
+18 5
+dickkk 018 8
+18 5
+dickkk 019 9
+19 5
+dickkk 019 9
+19 5
+dickkk 019 9
+19 4
+dickkk 019 9
+19 4
+dickkk 019 10
+19 4
+dickkk 019 10
+19 4
+dickkk 019 10
+19 4
+dickkk 019 10
+19 4
+dickkk 020 11
+20 4
+dickkk 020 11
+20 4
+dickkk 020 11
+20 4
+dickkk 020 11
+20 3
+dickkk 020 12
+20 3
+dickkk 020 12
+20 3
+dickkk 020 12
+20 3
+dickkk 020 12
+20 3
+dickkk 021 13
+21 3
+dickkk 021 13
+21 3
+dickkk 021 13
+21 3
+dickkk 021 13
+21 3
+dickkk 021 14
+21 3
+dickkk 021 14
+21 3
+dickkk 021 14
+21 3
+dickkk 021 14
+21 3
+dickkk 022 15
+22 3
+dickkk 022 15
+22 3
+dickkk 022 15
+22 3
+dickkk 022 15
+22 3
+dickkk 022 16
+22 3
+dickkk 022 16
+22 3
+dickkk 022 16
+22 3
+dickkk 022 16
+22 3
+dickkk 023 17
+23 3
+dickkk 023 17
+23 3
+dickkk 023 17
+23 4
+dickkk 023 17
+23 4
+dickkk 023 18
+23 4
+dickkk 023 18
+23 4
+dickkk 023 18
+23 4
+dickkk 023 18
+23 5
+dickkk 024 19
+24 5
+dickkk 024 19
+24 5
+dickkk 024 19
+24 5
+dickkk 024 19
+24 6
+dickkk 024 20
+24 6
+dickkk 024 20
+24 6
+dickkk 024 20
+24 6
+dickkk 024 20
+24 7
+dickkk 025 21
+25 7
+dickkk 025 21
+25 7
+dickkk 025 21
+25 8
+dickkk 025 21
+25 8
+dickkk 025 22
+25 8
+dickkk 025 22
+25 9
+dickkk 025 22
+25 9
+dickkk 025 22
+25 9
+dickkk 026 23
+26 10
+dickkk 026 23
+26 10
+dickkk 026 23
+26 10
+dickkk 026 23
+26 11
+dickkk 026 22
+26 11
+dickkk 026 22
+26 12
+dickkk 026 22
+26 12
+dickkk 026 22
+26 13
+dickkk 025 21
+27 13
+dickkk 025 21
+27 14
+dickkk 025 21
+27 14
+dickkk 025 21
+27 15
+dickkk 025 20
+27 15
+dickkk 025 20
+27 16
+dickkk 025 20
+27 16
+dickkk 025 20
+27 17
+dickkk 024 19
+28 17
+dickkk 024 19
+28 18
+dickkk 024 19
+28 18
+dickkk 024 19
+28 19
+dickkk 024 18
+28 19
+dickkk 024 18
+28 20
+dickkk 024 18
+28 20
+dickkk 024 18
+28 21
+dickkk 023 17
+29 21
+dickkk 023 17
+29 22
+dickkk 023 17
+29 22
+dickkk 0activated powerup THRU
+23 17
+dickkk 023 16
+dickkk 023 16
+dickkk 023 16
+dickkk 023 16
+dickkk 022 15
+dickkk 022 15
+dickkk 022 15
+dickkk 022 15
+dickkk 022 14
+dickkk 022 14
+dickkk 022 14
+dickkk 022 14
+dickkk 021 13
+dickkk 021 13
+dickkk 021 13
+dickkk 021 13
+dickkk 021 12
+dickkk 021 12
+dickkk 021 12
+dickkk 021 12
+dickkk 020 11
+dickkk 020 11
+dickkk 020 11
+dickkk 020 11
+dickkk 020 10
+dickkk 020 10
+dickkk 020 10
+dickkk 020 10
+dickkk 019 9
+dickkk 019 9
+dickkk 019 9
+dickkk 019 9
+dickkk 019 8
+dickkk 019 8
+dickkk 019 8
+dickkk 019 8
+dickkk 018 7
+dickkk 018 7
+dickkk 018 7
+dickkk 018 7
+dickkk 018 6
+dickkk 018 6
+dickkk 018 6
+dickkk 018 6
+dickkk 017 5
+dickkk 017 5
+dickkk 017 5
+dickkk 017 5
+dickkk 017 4
+dickkk 017 4
+dickkk 017 4
+dickkk 017 4
+dickkk 016 3
+dickkk 016 3
+dickkk 016 3
+dickkk 016 3
+dickkk 016 2
+dickkk 016 2
+dickkk 016 2
+dickkk 016 2
+dickkk 015 1
+dickkk 015 1
+dickkk 015 1
+dickkk 015 1
+dickkk 015 0
+dickkk 015 0
+dickkk 015 0
+dickkk 015 0
+dickkk 014 0
+dickkk 014 1
+dickkk 014 1
+dickkk 014 1
+dickkk 014 1
+dickkk 014 2
+dickkk 014 2
+dickkk 014 2
+dickkk 013 2
+dickkk 013 3
+dickkk 013 3
+dickkk 013 3
+dickkk 013 3
+dickkk 013 4
+dickkk 013 4
+dickkk 013 4
+dickkk 012 4
+dickkk 012 5
+dickkk 012 5
+dickkk 012 5
+dickkk 012 5
+dickkk 012 6
+dickkk 012 6
+dickkk 012 6
+dickkk 011 6
+dickkk 011 7
+dickkk 011 7
+dickkk 011 7
+dickkk 011 7
+dickkk 011 8
+dickkk 011 8
+dickkk 011 8
+dickkk 010 8
+dickkk 010 9
+dickkk 010 9
+dickkk 010 9
+dickkk 010 9
+dickkk 010 10
+dickkk 010 10
+dickkk 010 10
+dickkk 09 10
+dickkk 09 11
+dickkk 09 11
+dickkk 09 11
+dickkk 09 11
+dickkk 09 12
+dickkk 09 12
+dickkk 09 12
+dickkk 08 12
+dickkk 08 13
+dickkk 08 13
+dickkk 08 13
+dickkk 08 13
+dickkk 08 14
+dickkk 08 14
+dickkk 08 14
+dickkk 07 14
+dickkk 07 15
+dickkk 07 15
+dickkk 07 15
+dickkk 07 15
+dickkk 07 16
+dickkk 07 16
+dickkk 07 16
+dickkk 06 16
+dickkk 06 17
+dickkk 06 17
+dickkk 06 17
+dickkk 06 17
+dickkk 06 18
+dickkk 06 18
+dickkk 06 18
+dickkk 05 18
+dickkk 05 19
+dickkk 05 19
+dickkk 05 19
+dickkk 05 19
+dickkk 05 20
+dickkk 05 20
+dickkk 05 20
+dickkk 04 20
+dickkk 04 21
+dickkk 04 21
+dickkk 04 21
+dickkk 04 21
+dickkk 04 22
+dickkk 04 22
+dickkk 04 22
+dickkk 03 22
+dickkk 03 23
+dickkk 03 23
+dickkk 03 23
+dickkk 03 23
+dickkk 02 22
+dickkk 02 22
+dickkk 02 22
+dickkk 02 22
+dickkk 01 21
+dickkk 01 21
+dickkk 01 21
+dickkk 01 21
+dickkk 01 20
+dickkk 01 20
+dickkk 01 20
+dickkk 01 20
+dickkk 02 19
+dickkk 02 19
+dickkk 02 19
+dickkk 02 19
+dickkk 03 18
+dickkk 03 18
+dickkk 03 18
+dickkk 03 18
+dickkk 04 17
+dickkk 04 17
+dickkk 04 17
+dickkk 04 17
+dickkk 05 16
+dickkk 05 16
+dickkk 05 16
+dickkk 05 16
+dickkk 06 15
+dickkk 06 15
+dickkk 06 15
+dickkk 06 15
+dickkk 07 14
+dickkk 07 14
+dickkk 07 14
+dickkk 07 14
+dickkk 08 13
+dickkk 08 13
+dickkk 08 13
+dickkk 08 13
+dickkk 09 12
+dickkk 09 12
+dickkk 09 12
+dickkk 09 12
+dickkk 010 11
+dickkk 010 11
+dickkk 010 11
+dickkk 010 11
+dickkk 011 10
+dickkk 011 10
+dickkk 011 10
+dickkk 011 10
+dickkk 012 9
+dickkk 012 9
+dickkk 012 9
+dickkk 012 9
+dickkk 013 8
+dickkk 013 8
+dickkk 013 8
+dickkk 013 8
+dickkk 014 7
+dickkk 014 7
+dickkk 014 7
+dickkk 014 7
+dickkk 015 6
+dickkk 015 6
+dickkk 015 6
+dickkk 015 6
+dickkk 016 5
+dickkk 016 5
+dickkk 016 5
+dickkk 016 5
+dickkk 017 4
+dickkk 017 4
+dickkk 017 4
+dickkk 017 4
+dickkk 018 3
+dickkk 018 3
+dickkk 018 3
+dickkk 018 3
+dickkk 019 2
+dickkk 019 2
+dickkk 019 2
+dickkk 019 2
+dickkk 020 1
+dickkk 020 1
+dickkk 020 1
+dickkk 020 1
+dickkk 021 0
+dickkk 021 0
+dickkk 021 0
+dickkk 021 0
+dickkk 022 0
+dickkk 022 1
+dickkk 022 1
+dickkk 022 1
+dickkk 023 1
+dickkk 023 2
+dickkk 023 2
+dickkk 023 2
+dickkk 024 2
+dickkk 024 3
+dickkk 024 3
+dickkk 024 3
+dickkk 025 3
+dickkk 025 4
+dickkk 025 4
+dickkk 025 4
+dickkk 026 4
+dickkk 026 5
+dickkk 026 5
+dickkk 026 5
+dickkk 027 5
+dickkk 027 6
+dickkk 027 6
+dickkk 027 6
+dickkk 028 6
+dickkk 028 7
+dickkk 028 7
+dickkk 028 7
+dickkk 0level upped29 7
+collision HORIZONTAL
+dickkk 05 23
+dickkk 05 23
+dickkk 05 23
+dickkk 05 23
+dickkk 05 23
+dickkk 05 23
+dickkk 05 23
+dickkk 05 23
+dickkk 05 23
+dickkk 05 23
+dickkk 05 23
+dickkk 05 23
+dickkk 05 23
+dickkk 07 23
+dickkk 07 23
+dickkk 07 23
+dickkk 07 23
+dickkk 07 23
+dickkk 07 23
+dickkk 07 23
+dickkk 07 23
+dickkk 07 23
+dickkk 07 23
+dickkk 07 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+dickkk 09 23
+14 5
+dickkk 09 23
+14 6
+dickkk 09 23
+14 6
+dickkk 09 23
+14 7
+dickkk 09 23
+14 7
+dickkk 09 23
+14 8
+dickkk 09 23
+14 8
+dickkk 09 23
+14 9
+dickkk 09 23
+14 9
+dickkk 09 23
+14 10
+dickkk 09 23
+14 10
+dickkk 09 23
+14 11
+dickkk 09 23
+14 11
+dickkk 09 23
+14 12
+dickkk 09 23
+14 12
+dickkk 09 23
+14 13
+dickkk 09 23
+14 13
+dickkk 09 23
+14 14
+dickkk 09 23
+14 14
+dickkk 09 23
+14 15
+dickkk 09 23
+14 15
+dickkk 09 23
+14 16
+dickkk 09 23
+14 16
+dickkk 09 23
+14 17
+dickkk 09 23
+14 17
+dickkk 09 23
+14 18
+dickkk 09 23
+14 18
+dickkk 09 23
+14 19
+dickkk 09 23
+14 19
+dickkk 09 23
+14 20
+dickkk 09 23
+14 20
+dickkk 09 23
+14 21
+dickkk 09 23
+14 21
+dickkk 09 23
+14 22
+dickkk 09 23
+14 22
+dickkk 09 23
+14 23
+dickkk 09 23
+14 23
+dickkk 09 23
+14 24
+dickkk 09 23
+dickkk 09 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 013 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 011 23
+dickkk 09 23
+0 5
+dickkk 07 23
+0 6
+dickkk 05 23
+0 6
+dickkk 05 23
+0 7
+dickkk 05 23
+0 7
+dickkk 05 23
+0 8
+dickkk 05 23
+0 8
+dickkk 05 23
+0 9
+dickkk 05 23
+0 9
+dickkk 05 23
+0 10
+dickkk 05 23
+0 10
+dickkk 05 23
+0 11
+dickkk 05 23
+0 11
+dickkk 05 23
+0 12
+dickkk 05 23
+0 12
+dickkk 05 23
+0 13
+dickkk 05 23
+0 13
+dickkk 05 23
+0 14
+dickkk 05 23
+0 14
+dickkk 05 23
+0 15
+dickkk 05 23
+0 15
+dickkk 05 23
+0 16
+dickkk 05 23
+0 16
+dickkk 05 23
+0 17
+dickkk 05 23
+0 17
+dickkk 05 23
+0 18
+dickkk 05 23
+0 18
+dickkk 05 22
+0 19
+dickkk 05 22
+0 19
+dickkk 05 22
+0 20
+dickkk 05 22
+0 20
+dickkk 06 21
+0 21
+dickkk 06 21
+0 21
+dickkk 06 21
+0 22
+dickkk 06 21
+0 22
+dickkk 06 20
+0 23
+dickkk 06 20
+0 23
+dickkk 06 20
+0 24
+dickkk 06 20
+dickkk 07 19
+dickkk 07 19
+dickkk 07 19
+dickkk 07 19
+dickkk 07 18
+dickkk 07 18
+dickkk 07 18
+dickkk 07 18
+dickkk 08 17
+dickkk 08 17
+dickkk 08 17
+dickkk 08 17
+dickkk 08 16
+dickkk 08 16
+dickkk 08 16
+dickkk 08 16
+dickkk 09 15
+dickkk 09 15
+dickkk 09 15
+dickkk 09 15
+dickkk 09 14
+dickkk 09 14
+dickkk 09 14
+dickkk 09 14
+dickkk 010 13
+dickkk 010 13
+dickkk 010 13
+dickkk 010 13
+dickkk 010 12
+dickkk 010 12
+dickkk 010 12
+dickkk 010 12
+dickkk 011 11
+dickkk 011 11
+dickkk 011 11
+dickkk 011 11
+dickkk 011 10
+dickkk 011 10
+dickkk 011 10
+dickkk 011 10
+dickkk 012 9
+dickkk 012 9
+dickkk 012 9
+dickkk 012 9
+collision VERTICAL
+dickkk 012 8
+dickkk 012 8
+dickkk 012 8
+dickkk 012 8
+dickkk 013 9
+dickkk 013 9
+dickkk 013 9
+25 5
+dickkk 013 9
+25 6
+dickkk 013 10
+25 6
+dickkk 013 10
+25 7
+dickkk 013 10
+25 7
+dickkk 013 10
+25 8
+dickkk 014 11
+25 8
+dickkk 014 11
+25 9
+dickkk 014 11
+25 9
+dickkk 014 11
+25 10
+dickkk 014 12
+25 10
+dickkk 014 12
+25 11
+dickkk 014 12
+25 11
+dickkk 014 12
+25 12
+dickkk 015 13
+25 12
+dickkk 015 13
+25 13
+dickkk 015 13
+25 13
+dickkk 015 13
+25 14
+dickkk 015 14
+25 14
+dickkk 015 14
+25 15
+dickkk 015 14
+25 15
+dickkk 015 14
+25 16
+dickkk 016 15
+25 16
+dickkk 016 15
+25 17
+dickkk 016 15
+25 17
+dickkk 016 15
+25 18
+dickkk 016 16
+25 18
+dickkk 016 16
+25 19
+dickkk 016 16
+25 19
+dickkk 016 16
+25 20
+dickkk 017 17
+25 20
+dickkk 017 17
+25 21
+dickkk 017 17
+25 21
+dickkk 017 17
+25 22
+dickkk 017 18
+25 22
+dickkk 017 18
+25 23
+dickkk 017 18
+25 23
+dickkk 017 18
+25 24
+dickkk 018 19
+dickkk 018 19
+dickkk 018 19
+dickkk 018 19
+dickkk 018 20
+dickkk 018 20
+dickkk 018 20
+dickkk 018 20
+dickkk 019 21
+dickkk 019 21
+dickkk 019 21
+dickkk 019 21
+dickkk 019 22
+dickkk 019 22
+dickkk 019 22
+dickkk 019 22
+dickkk 020 23
+dickkk 020 23
+dickkk 020 23
+dickkk 020 23
+dickkk 020 22
+dickkk 020 22
+dickkk 020 22
+dickkk 020 22
+dickkk 021 21
+dickkk 021 21
+dickkk 021 21
+dickkk 021 21
+dickkk 021 20
+dickkk 021 20
+dickkk 021 20
+dickkk 021 20
+dickkk 022 19
+dickkk 022 19
+dickkk 022 19
+dickkk 022 19
+dickkk 022 18
+dickkk 022 18
+dickkk 022 18
+dickkk 022 18
+dickkk 023 17
+dickkk 023 17
+dickkk 023 17
+dickkk 023 17
+dickkk 023 16
+dickkk 023 16
+dickkk 023 16
+dickkk 023 16
+dickkk 024 15
+dickkk 024 15
+dickkk 024 15
+8 5
+dickkk 024 15
+8 6
+collision VERTICAL
+dickkk 024 14
+8 6
+dickkk 024 14
+8 7
+dickkk 024 14
+8 7
+dickkk 024 14
+8 8
+dickkk 025 15
+8 8
+dickkk 025 15
+8 9
+dickkk 025 15
+8 9
+dickkk 025 15
+8 10
+dickkk 025 16
+8 10
+dickkk 025 16
+8 11
+dickkk 025 16
+8 11
+dickkk 025 16
+8 12
+dickkk 026 17
+8 12
+dickkk 026 17
+8 13
+dickkk 026 17
+8 13
+dickkk 026 17
+8 14
+dickkk 026 18
+8 14
+dickkk 026 18
+8 15
+dickkk 026 18
+8 15
+dickkk 026 18
+8 16
+dickkk 027 19
+8 16
+dickkk 027 19
+8 17
+dickkk 027 19
+8 17
+dickkk 027 19
+8 18
+dickkk 027 20
+8 18
+dickkk 027 20
+8 19
+dickkk 027 20
+8 19
+dickkk 027 20
+8 20
+dickkk 028 21
+8 20
+dickkk 028 21
+8 21
+dickkk 028 21
+8 21
+dickkk 028 21
+8 22
+dickkk 028 22
+8 22
+dickkk 028 22
+8 23
+dickkk 028 22
+8 23
+dickkk 028 22
+8 24
+dickkk 029 23
+dickkk 029 23
+dickkk 029 23
+dickkk 029 23
+dickkk 029 22
+dickkk 029 22
+dickkk 029 22
+dickkk 029 22
+dickkk 030 21
+dickkk 030 21
+dickkk 030 21
+dickkk 030 21
+dickkk 030 20
+dickkk 030 20
+dickkk 030 20
+dickkk 030 20
+dickkk 031 19
+dickkk 031 19
+dickkk 031 19
+dickkk 031 19
+dickkk 031 18
+dickkk 031 18
+dickkk 031 18
+dickkk 031 18
+dickkk 032 17
+dickkk 032 17
+dickkk 032 17
+dickkk 032 17
+dickkk 032 16
+dickkk 032 16
+dickkk 032 16
+dickkk 032 16
+dickkk 033 15
+dickkk 033 15
+dickkk 033 15
+dickkk 033 15
+collision VERTICAL
+dickkk 033 14
+dickkk 033 14
+dickkk 033 14
+dickkk 033 14
+dickkk 034 15
+dickkk 034 15
+dickkk 034 15
+dickkk 034 15
+dickkk 034 16
+dickkk 034 16
+dickkk 034 16
+dickkk 034 16
+dickkk 035 17
+30 5
+dickkk 035 17
+30 6
+dickkk 035 17
+30 6
+dickkk 035 17
+30 7
+dickkk 035 18
+30 7
+dickkk 035 18
+30 8
+dickkk 035 18
+30 8
+dickkk 035 18
+30 9
+dickkk 036 19
+30 9
+dickkk 036 19
+30 10
+dickkk 036 19
+30 10
+dickkk 036 19
+30 11
+dickkk 036 20
+30 11
+dickkk 036 20
+30 12
+dickkk 036 20
+30 12
+dickkk 036 20
+30 13
+dickkk 037 21
+30 13
+dickkk 037 21
+30 14
+dickkk 037 21
+30 14
+dickkk 037 21
+30 15
+dickkk 037 22
+30 15
+dickkk 037 22
+30 16
+dickkk 037 22
+30 16
+dickkk 037 22
+30 17
+dickkk 038 23
+30 17
+dickkk 038 23
+30 18
+dickkk 038 23
+30 18
+dickkk 038 23
+30 19
+dickkk 038 24
+30 19
+dickkk 038 24
+30 20
+dickkk 038 24
+30 20
+dickkk 030 21
+dickkk 033 23
+30 21
+dickkk 033 23
+30 22
+dickkk 033 23
+30 22
+dickkk 0activated powerup BOMB

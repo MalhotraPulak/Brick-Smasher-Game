@@ -7,43 +7,64 @@ from util import log
 
 
 class PowerUpType(Enum):
-    SHRINK, EXP, MULT, FAST, THRU, GRAB = range(6)
+    SHRINK, EXP, MULT, FAST, THRU, GRAB, BULLET, BOMB = range(8)
 
 
-def createPowerUp(max_w, max_h, x, y):
-    i = randint(0, 5)
+def createPowerUp(max_w, max_h, x, y, ball_x, ball_y, rigged=False):
+    i = randint(0, 6)
+    if rigged:
+        i = 7
     if i == 0:
-        return ShrinkPowerUp(max_w, max_h, x, y, i)
+        return ShrinkPowerUp(max_w, max_h, x, y, i, ball_x, ball_y)
     if i == 1:
-        return ExpPowerUp(max_w, max_h, x, y, i)
+        return ExpPowerUp(max_w, max_h, x, y, i, ball_x, ball_y)
     if i == 2:
-        return MultPowerUp(max_w, max_h, x, y, i)
+        return MultPowerUp(max_w, max_h, x, y, i, ball_x, ball_y)
     if i == 3:
-        return FastPowerUp(max_w, max_h, x, y, i)
+        return FastPowerUp(max_w, max_h, x, y, i, ball_x, ball_y)
     if i == 4:
-        return ThruPowerUp(max_w, max_h, x, y, i)
+        return ThruPowerUp(max_w, max_h, x, y, i, ball_x, ball_y)
     if i == 5:
-        return GrabPowerUp(max_w, max_h, x, y, i)
+        return GrabPowerUp(max_w, max_h, x, y, i, ball_x, ball_y)
+    if i == 6:
+        return BulletPowerUp(max_w, max_h, x, y, i, ball_x, ball_y)
+    if i == 7:
+        return BombPowerUp(max_w, max_h, x, y, i, ball_x, ball_y)
 
 
 class PowerUp(GameObject):
-    def __init__(self, max_width: int, max_height: int, x: int, y: int, pw_type: int):
+    def __init__(self, max_width: int, max_height: int, x: int, y: int, pw_type: int, ball_x, ball_y):
         super().__init__(max_width, max_height, x, y)
-        self.speed = 0.5
-        self.buffer = 0
+        self.actual_x = x
+        self.actual_y = y
         self.color = Back.BLACK
         self.type = PowerUpType(pw_type)
         self.time = 0
+        self.speed_x = ball_x
+        self.speed_y = ball_y
         self.set_show(str(pw_type))
 
     def move(self):
-        self.buffer += self.speed
-        if self.buffer > 1:
-            self.y += 1
-            self.buffer = 0
-        if self.y >= self.max_height:
-            self.y -= 1
+        self.actual_x += self.speed_x
+        self.actual_y += self.speed_y
+        self.speed_y = min(self.speed_y + 0.01, 0.5)
+        if self.actual_x >= self.max_width - self.length:
+            self.actual_x = self.max_width - self.length - 1
+            self.reverse_x_speed()
+        if self.actual_x < 0:
+            self.actual_x = 0
+            self.reverse_x_speed()
+        if self.actual_y >= self.max_height:
+            self.actual_y = self.max_height - 1
             return -1
+        if self.actual_y < 0:
+            self.actual_y = 0
+            self.reverse_y_speed()
+        log(f"{self.x} {self.y}\n")
+        if abs(self.actual_x - self.x) >= 1:
+            self.x = int(round(self.actual_x))
+        if abs(self.actual_y - self.y) >= 1:
+            self.y = int(round(self.actual_y))
         return 0
 
     def get_type(self):
@@ -58,10 +79,33 @@ class PowerUp(GameObject):
     def set_time(self, time):
         self.time = time
 
+    def reverse_x_speed(self):
+        self.actual_x = self.x
+        self.speed_x = -self.speed_x
+
+    def reverse_y_speed(self):
+        self.actual_y = self.y
+        self.speed_y = -self.speed_y
+
+    def get_speed(self):
+        return self.speed_x, self.speed_y
+
+    def set_speed_x(self, inp):
+        self.speed_x = inp
+
+    def set_speed_y(self, inp):
+        self.speed_y = inp
+
+    def set_x_y(self, x, y):
+        self.x = x
+        self.actual_x = x
+        self.y = y
+        self.actual_y = y
+
 
 class ShrinkPowerUp(PowerUp):
-    def __init__(self, max_width: int, max_height: int, x: int, y: int, pw_type: int):
-        super().__init__(max_width, max_height, x, y, pw_type)
+    def __init__(self, max_width: int, max_height: int, x: int, y: int, pw_type: int, ball_x, ball_y):
+        super().__init__(max_width, max_height, x, y, pw_type, ball_x, ball_y)
 
     def power_up_activate(self, game):
         game.paddle.change_paddle_size(5)
@@ -73,8 +117,8 @@ class ShrinkPowerUp(PowerUp):
 
 
 class ExpPowerUp(PowerUp):
-    def __init__(self, max_width: int, max_height: int, x: int, y: int, pw_type: int):
-        super().__init__(max_width, max_height, x, y, pw_type)
+    def __init__(self, max_width: int, max_height: int, x: int, y: int, pw_type: int, ball_x, ball_y):
+        super().__init__(max_width, max_height, x, y, pw_type, ball_x, ball_y)
 
     def power_up_activate(self, game):
         game.paddle.change_paddle_size(20)
@@ -86,8 +130,8 @@ class ExpPowerUp(PowerUp):
 
 
 class MultPowerUp(PowerUp):
-    def __init__(self, max_width: int, max_height: int, x: int, y: int, pw_type: int):
-        super().__init__(max_width, max_height, x, y, pw_type)
+    def __init__(self, max_width: int, max_height: int, x: int, y: int, pw_type: int, ball_x, ball_y):
+        super().__init__(max_width, max_height, x, y, pw_type, ball_x, ball_y)
 
     def power_up_activate(self, game):
         new_balls = []
@@ -101,8 +145,8 @@ class MultPowerUp(PowerUp):
 
 
 class FastPowerUp(PowerUp):
-    def __init__(self, max_width: int, max_height: int, x: int, y: int, pw_type: int):
-        super().__init__(max_width, max_height, x, y, pw_type)
+    def __init__(self, max_width: int, max_height: int, x: int, y: int, pw_type: int, ball_x, ball_y):
+        super().__init__(max_width, max_height, x, y, pw_type, ball_x, ball_y)
 
     def power_up_activate(self, game):
         for ball in game.balls:
@@ -115,20 +159,19 @@ class FastPowerUp(PowerUp):
 
 
 class ThruPowerUp(PowerUp):
-    def __init__(self, max_width: int, max_height: int, x: int, y: int, pw_type: int):
-        super().__init__(max_width, max_height, x, y, pw_type)
+    def __init__(self, max_width: int, max_height: int, x: int, y: int, pw_type: int, ball_x, ball_y):
+        super().__init__(max_width, max_height, x, y, pw_type, ball_x, ball_y)
 
     def power_up_activate(self, game):
         game.thru_ball = True
-
 
     def power_up_deactivate(self, game):
         game.thru_ball = False
 
 
 class GrabPowerUp(PowerUp):
-    def __init__(self, max_width: int, max_height: int, x: int, y: int, pw_type: int):
-        super().__init__(max_width, max_height, x, y, pw_type)
+    def __init__(self, max_width: int, max_height: int, x: int, y: int, pw_type: int, ball_x, ball_y):
+        super().__init__(max_width, max_height, x, y, pw_type, ball_x, ball_y)
 
     def power_up_activate(self, game):
         game.grab_ball = True
@@ -137,3 +180,29 @@ class GrabPowerUp(PowerUp):
     def power_up_deactivate(self, game):
         game.grab_ball = False
         game.paddle.color = Back.GREEN
+
+
+class BulletPowerUp(PowerUp):
+    def __init__(self, max_width: int, max_height: int, x: int, y: int, pw_type: int, ball_x, ball_y):
+        super().__init__(max_width, max_height, x, y, pw_type, ball_x, ball_y)
+
+    def power_up_activate(self, game):
+        game.paddle.enable_paddle_bullets()
+        game.paddle.color = Back.BLUE
+
+    def power_up_deactivate(self, game):
+        game.paddle.disable_paddle_bullets()
+        game.paddle.color = Back.GREEN
+
+
+class BombPowerUp(PowerUp):
+    def __init__(self, max_width: int, max_height: int, x: int, y: int, pw_type: int, ball_x, ball_y):
+        super().__init__(max_width, max_height, x, y, pw_type, ball_x, ball_y)
+        self.color = Back.RED
+        self.set_show("*")
+
+    def power_up_activate(self, game):
+        game.lives -= 1
+
+    def power_up_deactivate(self, game):
+        pass

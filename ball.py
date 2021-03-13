@@ -1,13 +1,14 @@
 from game_object import GameObject
 from colorama import Back
 from util import log
+import random
 
 
 class Ball(GameObject):
     def __init__(self, max_width: int, max_height: int, x: int, y: int):
         super().__init__(max_width, max_height, x, y)
         self.speed_multiplier = 0.5
-        self.speed_x = 0.5
+        self.speed_x = random.randint(-2, 2) * 0.25
         self.speed_y = -0.5
         self.actual_x = x
         self.actual_y = y
