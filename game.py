@@ -33,7 +33,7 @@ class Game:
         self.lives = 3
         self.time = time.time()
         self.active_powerups: [PowerUp] = []
-        self.thru_ball = True
+        self.thru_ball = False
         self.grab_ball = False
         self.game_level = 1
         self.time_attack = False

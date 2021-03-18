@@ -20,5 +20,21 @@ python main.py
     3. Fast balls
     4. Through balls
     5. Grab ball
+	6. Shooting paddle
 - All powerups (except Multiply ball) last 10 seconds
 - Q to quit, R to Restart
+- 3 Levels
+- Last level with UFO boss
+- UFO health 20 
+- 5 seconds after level starts time attack mode begins
+	- Bricks move 1 level down everytime ball hits paddle
+- UFO drops bomb which reduces health by one
+- Types of brick:
+	Red - 1 strength
+	Blue - 2 strenght
+	Cyan - 3 strength
+	Green- Unbreakable 
+	Grey - UFO 
+	Rainbow - Keeps changing strength until hit
+- Customizable layout through CSV file, make your own levels easily
+- Enjoy!
